@@ -1,0 +1,14 @@
+{
+  "source_rows": 9087,
+  "empty_rows_removed": 0,
+  "duplicate_rows_including_conflicting": 930,
+  "conflicting_annotation_rows_removed": 623,
+  "conflicting_unique_texts": 272,
+  "unique_nonconflicting_rows_retained": 8305,
+  "positive_instances_retained": {
+    "humorous": 4624,
+    "sarcastic": 2166,
+    "offensive": 344,
+    "vulgar": 432
+  }
+}

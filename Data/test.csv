@@ -1,0 +1,1249 @@
+sentence_id,source_row_id,sentence,combination,humorous,sarcastic,offensive,vulgar
+1,1,shobai khela dekhtese ar ami tomar dp er dike takay asi,H,1,0,0,0
+2,2,sharadin bashay thakbo eta bhablei koto khushi lage,H,1,0,0,0
+3,3,relationship ta boring hoye jacche abar jhogra korte hobe,O,0,0,1,0
+5,5,koi move on korar kotha ulta aro preme portesi,H,1,0,0,0
+9,9,stop thinking about that person and go to sleep. ghum na ashle knock dao,H,1,0,0,0
+13,13,pura jibon ta eto baal gese ami purano din gula miss o korina,H+S,1,1,0,0
+20,20,breakup holey ashio ekhon maaf koro,H+S,1,1,0,0
+21,21,kalke exam tao porbona,H,1,0,0,0
+28,28,tumi eto durey na thakle shob kichu eto perfect hoto,H,1,0,0,0
+35,35,tumi choshma na porle ajke tomake eto bhalo lagtona,H,1,0,0,0
+36,36,"matro realize korlam nijeke joto superior bhabi ami ashole eto o joss na (╯(╰,)",H+S,1,1,0,0
+38,38,shobai jebhabe celebrate kortese ami ekhon khela dekha shuru korle kintu brazil harbe,S,0,1,0,0
+40,40,jitbo toh oidin jeidin tumi amar hoba,H,1,0,0,0
+42,42,tomar voice na shunle raate ghum ashena,H,1,0,0,0
+46,46,tomar jonno abaro no nut november herey gelam,O+V,0,0,1,1
+53,53,exist kore amake seduce kora bondho koro,V,0,0,0,1
+54,54,"""shundor lagtese?"" ""tomake ki porle shundor lagbena oita bolo""",H,1,0,0,0
+55,55,duijon duijon k kichui bolar nai bole bole paragraph pathacchi,H,1,0,0,0
+60,60,tumi eto joss amar mone hoy na ami ei ramadan e bhalo hote parbo,H+S,1,1,0,0
+72,72,lift e itish pitish kora is an extreme sport,V,0,0,0,1
+77,77,amar joto feelings bartese or interest toto beshi komtese,H,1,0,0,0
+89,89,tomar preme pore jotoi dumb hoye jai na keno tao worth it hobe,H,1,0,0,0
+94,94,tar bkash 10k chilo ar oitar moddhe tomake shudhu 500 dilo but amar 6 taka chilo puratai tomake diye dilam eitai amader difference kintu tumi bujhlana society,H+S,1,1,0,0
+98,98,ajke theke shobai biri khawa shuru korbe,S,0,1,0,0
+105,105,tomar heart eto cold amar thanda lag-AAAACCHU,H,1,0,0,0
+116,116,tumi eto jhogra na korle ajke amra onek shukhe thaktam,S+O,0,1,1,0
+117,117,agey friends chilo but taka chilona ekhon friends nai ar taka o nai,S,0,1,0,0
+127,127,shobai gta 5 chay but ami shudhu tomake,H,1,0,0,0
+129,129,jantam erokom hobe tao preme porsi,H,1,0,0,0
+131,131,"shamna shamni ugly bolle beshi rude hoye jai, photogenic boli",H,1,0,0,0
+144,144,ekta ke bhulte na bhulte arekta preme pore jacchi ki ekta obosta,H+O,1,0,1,0
+154,154,tumi kache thakle ajke amader o komor betha korto,V,0,0,0,1
+155,155,yeah shobai replaceable but ami tomakei chai,H,1,0,0,0
+161,161,prottek new year er moto eibar o bhaat kheye ghumai jabo,H,1,0,0,0
+173,173,kokhono expect korinai tomake eto taratari bhule jabo,H,1,0,0,0
+189,189,"ami shobai k boli ""be your own happiness"" ar eidike amar happiness tumi",H,1,0,0,0
+193,193,sharabochor mommy daklam tao salami dei na,H+S,1,1,0,0
+205,205,sometimes all you need is a friend jar bashay lagano jabe,H+S,1,1,0,0
+206,206,block kore ki labh tomake stalk na korte parle toh aro taratari bhule jabo,H,1,0,0,0
+211,211,asho tomake move on korte help kori,H,1,0,0,0
+228,228,"kire group chat e keo amake reply dei na ken? shobai nijeder moto kotha bole like ami exist o korina (╯(╰,)",H,1,0,0,0
+254,254,ami actually baki chele gular moton e but yeah okay,H,1,0,0,0
+258,258,kotha bolte chai but ignore korte hoy nahole toh tumi amar value bujhbana,H,1,0,0,0
+260,260,chaa khaite khaite bhabtesi kalke shokaler class er jonno kemne uthbo,H,1,0,0,0
+265,265,"CGPA jotoi kom ashuk, ami sir er joke e hashbo na",H+S,1,1,0,0
+267,267,feelings catch korar por simping kora off kore dise,H,1,0,0,0
+280,280,tumi ki hoba amar 14th feb er extra class er reason?,H,1,0,0,0
+282,282,chaa khaite khaite chinta kortesi keno amar ghum ashena,H,1,0,0,0
+285,285,baal ektu beshi e attached hoye jacchi,H+S,1,1,0,0
+286,286,"emneo lazy ar unproductive chilam, er opor abar preme porsi",H,1,0,0,0
+289,289,follower to following ratio dekhe bujhe gesi koyekdin por unfollow kore dibe,H,1,0,0,0
+306,306,tomake niye bhabte bhabte onno meyeder k ki bolbo oitao bhule jai,H+S,1,1,0,0
+307,307,amar roja bhenge gese karon ami tomar opor onek boro ekta crush khaisi,H,1,0,0,0
+322,322,block marbona karon pore jodi amake stalk na korte korte bhule jao,H+S,1,1,0,0
+325,325,sorry i ghosted you amar patchup hoye gesilo,H+S,1,1,0,0
+332,332,transformation ta breakup er agey korle breakup hoto na but okay,S,0,1,0,0
+334,334,jhogra bhalo lagena bole bole aro jhogra kore,H+S,1,1,0,0
+343,343,ami romantic gaan shune tomar kotha bhabtesi and tumi amake reply o dicchona,H,1,0,0,0
+350,350,majhe majhe keno ignore koro chiro din keno korona,H,1,0,0,0
+357,357,bhalobashle tumi screenshot believe na kore amake believe korta,O,0,0,1,0
+367,367,"ma'am eto shundor, questions ask korte nervous lage",H+S,1,1,0,0
+389,389,Every minor ever: na na ami ashole 18 amar certificate e age komaise and year gap gese,H+O,1,0,1,0
+390,390,"""gaayer theke gajar smell keno ashtese?"" ""tumi gajar smell chino kemne?""",H+S,1,1,0,0
+393,393,tumi eto annoying tomake amar jibone rakhsi shudhu amar patience baranor jonno,H+S,1,1,0,0
+405,405,meye shundor but amar toh girlfriend ase,H,1,0,0,0
+408,408,jebhabe chillacche ami bhabsi 3-4ta goal hoye gese,S+O,0,1,1,0
+409,409,thanda kintu aro barbe taratari knock dao ar kotodin eka ghumaba,H,1,0,0,0
+422,422,lojjay eye contact maintain korte parena kintu bashay giye eye contact niye post share korte korte newsfeed bhorai felbe,H+S,1,1,0,0
+432,432,bujhtesina tumi ki otirikto shundor naki ami tomake bhalobashi bole,H,1,0,0,0
+436,436,"dhong kore bashar theke ber hoye gesi but ebar jabo koi (╯(╰,)",H,1,0,0,0
+449,449,friend er gf niye bhabtesi,O,0,0,1,0
+475,475,ebhabe amaro prem hoy na,S,0,1,0,0
+479,479,"ekhon e chance babe, tomar ammu ke amar chobi dekhay bolo amar bashay current ase",S,0,1,0,0
+486,486,sharadin chaa na kheye bhabtesi keno matha betha kortese,H+S,1,1,0,0
+494,494,"amar shob feelings share korar poreo crush story dise ""before 2021 ends tell me something you always wanted to say""",H,1,0,0,0
+498,498,"messenger jodi thik hoy tahole keo amake text kortesena keno (╯(╰,)",H,1,0,0,0
+505,505,shobai mone kore ami amar future niye serious na but ami ashole amar future niye oneeeeeeeek serious *continues day dreaming about being successful*,H,1,0,0,0
+511,511,bhule oi specific gaan ta ektu kore shune felsi now i can't stop thinking about you,H,1,0,0,0
+519,519,so you guys stopped talking cus last text tomar chilo and o reply dei nai? ok,H,1,0,0,0
+521,521,tomake dekhe amar inner simp awaken hocche maybe etai amar true self,H,1,0,0,0
+522,522,good morning texts ditam butt amra toh ar kotha bolina karon tumi erokom,H,1,0,0,0
+531,531,i have two moods 1. nijeke onek kichu mone hoi 2. nijeke onek worthless mone hoi,H,1,0,0,0
+536,536,accha na ami shuye chilam tai amar matha betha gula mathar ek konai jomey chilo uthar por abar shuru hoise,H,1,0,0,0
+543,543,eishob embarrassing memories eto randomly mone pore keno,H,1,0,0,0
+544,544,lonely feel korar jonno shobai k ignore korte hobe kichu korar nai,H,1,0,0,0
+546,546,ghumaite chaisilam but amar chaa khaite hobe nahole oi sexy matha betha gula shuru hoye jabe ooh baby,H,1,0,0,0
+559,559,raat joto gobhir hoi toto realize kori ami koto boro ekta loser,H,1,0,0,0
+563,563,taka lagbe bhai prem korte ar bhalo lagena,H,1,0,0,0
+566,566,thak at least amar jonno tomar character development hobe,H,1,0,0,0
+569,569,when everyone in the group is complimenting a person so you have to compliment too nahole beshi rude hoye jai,H,1,0,0,0
+576,576,amar mon kharap keno tomake keno bolbo,H,1,0,0,0
+578,578,yes i have STD S- T- tomar jonno feelings D-,H,1,0,0,0
+587,587,Porte Bosh. amader majhe agun lagate chache karon o jane ami tomake niye onek serious,H,1,0,0,0
+590,590,matha bethaaaaaaaaaa matha bethaaaaaaaa dekhso tomar jonno tension korte korte amar matha betha kortese,H,1,0,0,0
+595,595,call dibe bole ar call dei nai ekhon ami lonely,H,1,0,0,0
+597,597,tomar preme kante kante naak muchte muchte naak lal hoye gelo,H,1,0,0,0
+598,598,madarchod tui nije ghuma khai dai kaam nai shudhu manush k ghumaite bole,H,1,0,0,0
+602,602,ayhay seen o dilona chat delete kore di nahole prottekbar dekhle koshto lagbe,H,1,0,0,0
+610,610,bujhchi tumi overthinker ebar chup,H,1,0,0,0
+613,613,whaooo tumi amake ghumaite jaite bolle ami asholei ghumai jaitam,H,1,0,0,0
+621,621,agey bhabtam amar theke boro disappointment ei duniya te nai then i met you,H,1,0,0,0
+623,623,shobai shobar life e temporary. jototuk time ase chill mere enjoy kora uchit but tumi ki kortoso? yeah as usual raag kore boshe aso,H,1,0,0,0
+630,630,me after being productive for 3mins: mental health onek important eto stress nite partesina ajke etotuk thak kalke theke ekdom serious,H,1,0,0,0
+637,637,shobai k ditch kore shudhu tomar shathei kotha bolte iccha kore and eta toh bhalo sign na,H,1,0,0,0
+643,643,prottek diner moto ajkeo exist korte iccha kortesena,H,1,0,0,0
+667,667,koekdin ignore korte hobe nahole amar inner simp awaken hoye jabe,H,1,0,0,0
+669,669,tomake chai but kotha bolar iccha nai,H,1,0,0,0
+679,679,ik dosh amar but tomake blame na korle toh amar guilty lagbe bujhona keno,H,1,0,0,0
+683,683,nobody: people with nice voices: ekta gaan gai?,H,1,0,0,0
+700,700,ami shudhu tomake niye overthink kori,H,1,0,0,0
+721,721,"amar cheler naam ""amar"" rakhbo jaate shob meyeder oke amar dakte hoy. sharajibon amake thanks bolbe",H,1,0,0,0
+722,722,kichukhon agey shokal chilo and its 2am already,H,1,0,0,0
+723,723,beshi brain use kore felsi koekdin break nite hobe,S,0,1,0,0
+724,724,eto pressure nite partesina,H,1,0,0,0
+725,725,rude holeo pore regret kori nice holeo same ki ekta obosta,H,1,0,0,0
+740,740,ei line ta onekjoner opor use korsi but you're the first one jaake actually mean kore bolsi,H,1,0,0,0
+743,743,onek jor uthse but tomake instant reply dawar jonno screen e takai asi even tho amar onek matha betha kortese,H,1,0,0,0
+746,746,when she has an interesting personality and actually fun to talk to,H,1,0,0,0
+758,758,"ayhay eto cheleder mon niye kheltoso, meye tumi ki ""the-mon slayer""?",H,1,0,0,0
+761,761,maybe tomake beshi patta diye felsi tai eto attention demand kortoso maybe first theke limited attention dile ekhon eta onek lagto,H,1,0,0,0
+762,762,Joto kotha boli toto drained feel hoy but kotha na bolle toh pore onek lonely hoye jabo,H,1,0,0,0
+768,768,shobai mone kore ami Porte Bosh. k bhalobashi but ashole ami tomake bhalobashi,H,1,0,0,0
+770,770,"ho sleep schedule thik korbi eta beshi unhealthy hoye jacche, tarpor?",H,1,0,0,0
+776,776,mood bhalo chilo tumi text dawar por birokto lagtese,H,1,0,0,0
+778,778,wow can't believe amar tomar opor ekta time e crush chilo lol,S,0,1,0,0
+782,782,areh ami insecure na ami emnei self deprecating jokes boli nijeke humble dekhanor jonno ami literally nijeke god mone kori so chill,H,1,0,0,0
+783,783,meyeder attention er obhabe din din misogynist hoye jacchi,H,1,0,0,0
+786,786,keno nijeke eto superior mone hoy?,H,1,0,0,0
+804,804,"ekdin amake ekjon conversation er majhkhane ask kortesilo ami kon page er admin naam bolte ei shei tarpor ami jigish korsi tomar chena shob cheye cringe page er naam bolo and he was like ahare ebhabea bolio na tarpor ami oke 3ta chance disi 3ta chance e naam bolte parle ami oke bolbo nahole nai then o first guess e bollo ""idk shelby bhai?""",H,1,0,0,0
+815,815,ekhon self deprecating jokes bolbo jaate shobai amake onek humble wise and woke mone kore,H,1,0,0,0
+833,833,ajke feelings confess korlam karon kalke probably ei feelings ar thakbena,H,1,0,0,0
+834,834,bujhchi tumi onek short tempered but tomar mon onek bhalo ekdom pori ebar chup bhai partesina ar,H,1,0,0,0
+837,837,call dibe bolse but call dei nai and kinda lowkey khushi hoisi,H,1,0,0,0
+838,838,cm punk o back chole ashche kintu tumi firey ashlana,H,1,0,0,0
+843,843,tui jokhon ssc er jonno portesili tor girlfriend psc er jonno portesilo just chinta kor,H+V,1,0,0,1
+857,857,ayhay bhule roast kore felsi ekhon ektu simping kore thik kore felbo,H,1,0,0,0
+860,860,amar gallery te dukhle mone hoi eta tomar phone,H,1,0,0,0
+862,862,Tumi toh deep down janta erokom hobe tarporeo eto surprised keno?,H,1,0,0,0
+874,874,inner me: yo oita mone ase? that was awkward tor oita kora uchit chilona me: BAAL asholei toh ken j korlam inner me: thak baad de jaa howar hoye gese eto o awkward chilona ashole onek awkward chilo but hey baad de pera nai,H,1,0,0,0
+883,883,that one friend jar prottekdin breakup hoy,H,1,0,0,0
+887,887,"ghumaite chacchi but kon biye te fata speaker e jorey jorey ""ah ah ah ah larki akh mare"" choltese kichukhon agey its my life charsilo",H,1,0,0,0
+889,889,amar result niye ami satisfied na recheck dibo,H,1,0,0,0
+895,895,eto needy hoye jabo tumi nijei chere diba,H,1,0,0,0
+897,897,meye books pore ami ordhek pote gesi,H,1,0,0,0
+902,902,joto kotha boltesi toto attraction chole jacche,H,1,0,0,0
+903,903,ghumaite ghumaite shoulder betha kortese,H,1,0,0,0
+906,906,tumi jodi asholei care na korta tahole bar bar status diye tomar hAtErS der k reminder dita na j tumi care korona,H,1,0,0,0
+910,910,what do you say to someone when they share a sad story? shejonno socialize korte bhalo lagena baal,H,1,0,0,0
+912,912,bujhchi toke keo bhalobashena ebar ektu chup kor?,H,1,0,0,0
+913,913,ajke onek kom worthless feel hocche,H,1,0,0,0
+928,928,ayhay keo nai amar ignore korar jonno,H,1,0,0,0
+929,929,kire etodin eto simping korlam amake ignore kortesena keno,H,1,0,0,0
+935,935,ganja khaile protidin e eid,O,0,0,1,0
+944,944,"shobai sharabochor gunnah kore ramadan e eshe bhalo hoye jai then ramadan sheshe abar shuru only difference is you just judge other people for sinning differently while others don't, which makes you the biggest hypocrite in the room",H,1,0,0,0
+945,945,shobai k bashai thakte bole nijei ber hoye story dicche,H+S,1,1,0,0
+946,946,agey romantic gaan shunle tomar kotha mone porto but ekhon ar porena karon romantic gaan shunina,H,1,0,0,0
+957,957,baaler instagram choltesena baal ERRRRRREEREEHEHEGEHFUCK,H,1,0,0,0
+962,962,ami literally same mistake abar repeat kortesi ami jani eta stupid but tao,H,1,0,0,0
+965,965,why do girls automatically assume you have a lot chicks like broo amar chehera dekhso? tomar ki honestly lage amar demand ase?,H,1,0,0,0
+967,967,ami eto boro loser coke er bottle ta ami shorai rakhle company er value aro bere jaito,H,1,0,0,0
+977,977,amio free anonymous text jinish ta kortam but hudai gali khawar iccha nai,H,1,0,0,0
+982,982,ami shudhu daydream e korte pari real life e amake diye kichui hobena tomake bhalobasha chara,H,1,0,0,0
+997,997,ami shudhu tomakei fast replies di,H,1,0,0,0
+998,998,tomar shathe 24/7 kotha na bolle bhalo lagena,H,1,0,0,0
+999,999,Eh ektu journaling korle abar mental stability chole ashbe eeeeeez,H,1,0,0,0
+1000,1000,amaro text korar keo nai,H,1,0,0,0
+1003,1003,ngl amar jonno 2020 bhaloi chilo,H,1,0,0,0
+1006,1006,notun negative thoughts lagbe ager gula ar hurt korena,H,1,0,0,0
+1011,1011,s00000000000 movie ta emotional chilo naki tui already depressed and it doesn't take much to make you cry shejonno kanna korli?,H,1,0,0,0
+1015,1015,isss amio toh eto narcissistic na,H,1,0,0,0
+1018,1018,amra ki sharajibon shudhu flirt korbo?,H,1,0,0,0
+1025,1025,ki fix kortam tomare? partner khujtoso naki therapist?,H,1,0,0,0
+1039,1039,Duijon ke bhalobashi but tomar jonno bhalobashar intensity beshi apatato,H,1,0,0,0
+1056,1056,its not you amar just socialize korte bhalo lagena,H,1,0,0,0
+1069,1069,pura Bangladesh digital hoye gese kintu tumi ekhono amake reply dilana,H,1,0,0,0
+1073,1073,"*women gets harassed for smoking* intellectual bengalis: ""smoking ta ashole bhalo na karor e smoke kora uchit na #smokingkills"" literally packet e lekha ase etodin keo shunenai but hey ekhon tomar post er jonno shobai smoking chere dibe yay and before you post ""smoking should be banned in public places"" ask yourself why is this suddenly a common opinion? do you see where the real problem is? i sound like a feminist but i believe meyetar dosh chilona and did u guys realize ei incident tar jonno meyeta probably bashai smoking er jonno dhora khaise?",H,1,0,0,0
+1076,1076,ebhabe cholte thakle jibone kichui korte parbona,H,1,0,0,0
+1088,1088,excess pot kore morey gele ki eta k sToNed to dEath bola hoi?,H,1,0,0,0
+1093,1093,tomar jonno onek hajar baccha mere fellam,H,1,0,0,0
+1119,1119,amar tomake eto bhalo lagto j amar friend ra believe o korena amar tomake ar bhalo lagena,H,1,0,0,0
+1130,1130,aMarRo sElF reSpEcT aSe,H,1,0,0,0
+1132,1132,porar tension e shanti moto chill o korte partesina abar porteo iccha korena AAAAAAA,H,1,0,0,0
+1134,1134,"ayhay tomar moto hyper successful hote parle amaro onek haters thakto (╯(╰,)",H,1,0,0,0
+1161,1161,"tomar fridge e amar mangsho na rakhle mangsho poche jabe toh (╯(╰,)",H+V,1,0,0,1
+1162,1162,baire pore brishty keno tumi eto thirsty,H+V,1,0,0,1
+1164,1164,tumi na bolle ami kheyal o kortam na tumi seen mere rakhso,H,1,0,0,0
+1168,1168,ghumai jao nahole suicide korte iccha korbe,H,1,0,0,0
+1170,1170,ekhon ideal college er video ta te giye onek funny ekta comment korbo tarpor amar friendlist e shobai dekhbe ami koto boro comedian and tarpor jotogula meye amake reject korse ora jokhon jante parbe ami ekhon comedian shob gula regret korte korte morey jabe oh yea,H,1,0,0,0
+1174,1174,etodine amader biye hoye jaito but tumi toh knock dicchona,H,1,0,0,0
+1179,1179,socialise na korle ki je bhalo lage bro purai chill,H,1,0,0,0
+1191,1191,ar kotokhon pretend korbo ami high na,H+S,1,1,0,0
+1198,1198,amar nai biri shudhu tomake chai nari,H,1,0,0,0
+1205,1205,amaro khida lagse ganggang,H,1,0,0,0
+1212,1212,youtube e ekta comment e lekha chilo comment ta like dile 1year er moddhe borolok hoye jabo since amar future onek bright cholo amra ekhon e biye kore feli,H,1,0,0,0
+1216,1216,nutun kono texts na peye mone korsilam net e shomosha tarpor dekhi connection thik e ase,H,1,0,0,0
+1220,1220,actually i don't want you to suffer cus ami chai na tomar kono character development hok,H,1,0,0,0
+1223,1223,shobai nijer music taste k eto superior keno mone kore,H,1,0,0,0
+1233,1233,shob dosh amar i shouldve seen the world for what it was. amar naive borrowed ideals gular jonno e erokom hoise and yeah i deserved that,H,1,0,0,0
+1244,1244,you guys think ami ekta loser but ashole ami asholei ekta loser,H,1,0,0,0
+1255,1255,ajke amar moner kotha shob bole dibo ar partesina ajkei bole dibo oke amar onek beshi birokto lage,H,1,0,0,0
+1258,1258,ayhay keo bujhlona amar joke,H,1,0,0,0
+1262,1262,tomake bolinai bole tumi raag korba tai tomake bolinai,H,1,0,0,0
+1277,1277,emneo amar iq nai tomar shathe kotha bole jaa iq ase ogulao drop kortese,H,1,0,0,0
+1280,1280,shut up female tomar boyfriend niye jante chai nai ami,H,1,0,0,0
+1281,1281,kichu korar nai tomar naam ta onno ekta meye noshto kore dise,H,1,0,0,0
+1289,1289,Dear feminist tomar brain ki etoi underdeveloped je tumi basic figures of speech bujhte parona? tomake jodi kono chele hot bole which is very unlikely but tao jodi hot bole it means tomar ekta sexy body ase which has nothing to do with you being a fuckin chaayer cup you dumb fucking piece of shit,H,1,0,0,0
+1294,1294,ayhay ami tomake niye keno chinta kortesi,H,1,0,0,0
+1300,1300,this could be us but tomar toh boyfriend ase and na thakleo probably patta dita na and ami emneo approach o kortam na cus ami shy. ayhay amader pothe eto kata keno,H,1,0,0,0
+1301,1301,"you know there's something wrong when even your birikhor friends say "" kire ar koita khabi?""",H,1,0,0,0
+1319,1319,boyfriend er shathe raag? asho ami tomake entertain kori,H,1,0,0,0
+1322,1322,ayhay cringe bole arrest kortese ekhon amar ki hobe,H,1,0,0,0
+1323,1323,me: ghum ashtese ghumai jai kalke emneo ttaratari uthte hobe inner me: yeah but tao ghumabona me: yeah jani inner me: keno ami erokom me: chup thak toh shojjo hoi na toke ekdom,H,1,0,0,0
+1326,1326,cholo character development er jonno onek attached hoye duijon duijon k traumatized kore feli j beshi traumatize korte parbe o jitbe,H,1,0,0,0
+1327,1327,ami ONEEEK BORO ekta secret bolte gesilam but tumi topic change kore felso tarpor bolba tumi amake niye kichui janona,H,1,0,0,0
+1329,1329,keno tumi mone koro tumi amar jonno important,H,1,0,0,0
+1331,1331,butt deep down tumi jano tumi shundor bole shobai tomar joke e hashtese,H,1,0,0,0
+1339,1339,ami shudhu tomar fast replies chai,H,1,0,0,0
+1342,1342,kichuna just ekta onek embarrassing kotha mone porlo,H,1,0,0,0
+1346,1346,ludo te amar bar bar ek uthe karon ami onek eka,H,1,0,0,0
+1347,1347,eh ekta proper goodbye bola uchit chilo,H,1,0,0,0
+1348,1348,ekhon ar poralekha shuru koreo labh nai,H,1,0,0,0
+1357,1357,"at this point tui tor shob gula chobir caption edit kore ""i am six feet"" lekhleo ami shock hobona",H,1,0,0,0
+1363,1363,ask out korbona toh sharajibon ebhabe cholte thakbe,H,1,0,0,0
+1364,1364,bashai thanda baire gorom tomar voice shunle monta hoye jai norom,H,1,0,0,0
+1371,1371,tumi ami ar danish asho kori tomake punish,H,1,0,0,0
+1380,1380,ami boring na amar just tomar shathe conversation continue korar iccha nai,H,1,0,0,0
+1381,1381,next year shei hobe jodi tumi pashe thako,H,1,0,0,0
+1383,1383,neha kakkar pregnant na holey ami kokhono ore chintam o na,H,1,0,0,0
+1385,1385,"fan charle tomar kotha mone pore fan off korleo tomar kotha mone pore(╯(╰,)",H,1,0,0,0
+1403,1403,ami shudhu birir jonno ber hoi but dekhi aste aste corona aro barle ager moto ber howa shuru korbo,H,1,0,0,0
+1404,1404,ami pass korbo naki oitar tension e shesh tao porina,H,1,0,0,0
+1435,1435,tomake niye chinta korlam etai amar jonno onek embarrassing,H,1,0,0,0
+1457,1457,hate korar moto energy nai thakle ONEK beshi kortam maybe,H,1,0,0,0
+1470,1470,ayhay ekhon amake exam er tension theke k distract korbe,H,1,0,0,0
+1477,1477,no one: Girls pretending that they understand the guy: tUMi bAiRe oNeK rUdE buTt bHitOrE oNeK bHaLo kInTu tUmi dEkHaO nA,H,1,0,0,0
+1510,1510,keno amake ignore kore,NONE,0,0,0,0
+1512,1512,sorry tomar dosh nai amar kaoke bhalo lagena ar,S,0,1,0,0
+1518,1518,shobai dumb naki ami beshi kabil hoye gesi,H+O,1,0,1,0
+1536,1536,ami oi b&w dressed meyetar moto friend der k bachaite giye nije phun mara khai,V,0,0,0,1
+1541,1541,amar shathe erokom korar por abar mental health niye post dicche whao,O,0,0,1,0
+1542,1542,shundor but eto dumb ekta decent conversation o maintain korte parina,S,0,1,0,0
+1543,1543,amar convo te effort dawa uchit,NONE,0,0,0,0
+1546,1546,tumi ki hudai fancy words use koro naki ami osshikhito,NONE,0,0,0,0
+1550,1550,baaler nutun chathead open hole ager ta seen hoye jai,V,0,0,0,1
+1559,1559,ghum ashe tomar shathe kotha bolle,S+O,0,1,1,0
+1561,1561,thank god arranged marriage bole ekta jinish ase cus amar ar hope nai,H+S,1,1,0,0
+1574,1574,ei jibon ta matha betha hole tumi hoba cha,H,1,0,0,0
+1586,1586,tumi ki maths? cus tumi amar weakness tho ami bakider jonno o weak but tomar jonno ektu beshi weak cus tomake ekdom e bujhina ki boltesi egula hmmm,NONE,0,0,0,0
+1595,1595,messenger uninstall kore dileo kono difference eshe jabena,NONE,0,0,0,0
+1611,1611,Haha dite chaisilam but di nai ami soft hoi jacchi din din,S,0,1,0,0
+1616,1616,Manush k taratari judge kora uchit na tai tomare chance disilam onek regret kori,S,0,1,0,0
+1623,1623,tbh amar feelings nai egula emnei boli,S,0,1,0,0
+1625,1625,mitochondria is the powerhouse of cell ei ondhokar raate keo amake deina bel,H+S,1,1,0,0
+1627,1627,its not you amar karor shathe kotha bolte iccha korena,S,0,1,0,0
+1642,1642,tumi hashtoso bole amaro hashi ashtese,H,1,0,0,0
+1653,1653,gaan ta shundor but tumi aro beshi,H,1,0,0,0
+1655,1655,tui ki etoi lonely j eto dumb ekta meyer shathe kotha boltosos j tor jokes o bujhena?,O,0,0,1,0
+1656,1656,mama onek din por benson switch pailam,H,1,0,0,0
+1658,1658,baaler facebook bhalolagena shudhu tomake bhalo lage,H+V,1,0,0,1
+1659,1659,bujhchi bhai tui manga poros ebar maaf kor,NONE,0,0,0,0
+1684,1684,ami emneo kharap so whatever,S,0,1,0,0
+1685,1685,amar joke e keo hashena keno,H,1,0,0,0
+1689,1689,Facebook memories dekhe amar koshto lagtesena keno,NONE,0,0,0,0
+1694,1694,ami turned on but shobai offline,H+V,1,0,0,1
+1699,1699,shundor lagtese but ei gaan ta ar shojjo hocchena,NONE,0,0,0,0
+1701,1701,Baal eishob happiness er jonno abar pore pay korte hobe,NONE,0,0,0,0
+1708,1708,shob kichu onek confusing,S,0,1,0,0
+1725,1725,Shundor but dekhle mone hoi amader baccha gulake onek marbe,NONE,0,0,0,0
+1728,1728,Ami jantam tao keno korsi,S,0,1,0,0
+1729,1729,onek gali dite iccha kore,O,0,0,1,0
+1733,1733,Tumi ghumaccho and ami tomar call er jonno boshe asi,S,0,1,0,0
+1737,1737,keo banai nai tai ami banailam,NONE,0,0,0,0
+1738,1738,majhe majhe mone hoi that ceiling fan ta pore jabe tai onno jaigai giye boshi,H,1,0,0,0
+1741,1741,tumi shobai k advice dao but tomake k advice dei hm?,NONE,0,0,0,0
+1745,1745,shitposting korte bhalo lagena tao keno kortesi,S,0,1,0,0
+1756,1756,madarchod amar 500 taka na diye kylie k taka firot dite boltese whao whao,O+V,0,0,1,1
+1758,1758,shobai amake ignore kore,NONE,0,0,0,0
+1767,1767,picture e amake chehera dhakle shundor lage and shobcheye joss lage jokhon chobi te ami thakina,H+S,1,1,0,0
+1775,1775,"Ammu ghum theke uthaite ashlo ekhon ami pretend kortesi that ami aste aste uthtesi, uthar por chokh gula half bondho rakhte hobe and deep but low ekta voice e kotha bolte hobe ami bujhtesina amare oscar dei na ken",S,0,1,0,0
+1778,1778,ami attention seek korar jonno sad posts kori,S,0,1,0,0
+1788,1788,tomar preme pori karon tumi ekta pori,H,1,0,0,0
+1797,1797,eshob post dekhle khub eka eka lage,NONE,0,0,0,0
+1820,1820,majhe majhe mone pore ami onek lonely 10-20mins weird lage then abar gangsta,S,0,1,0,0
+1822,1822,tomar prem e porbo naki tomar prem e porbo,S,0,1,0,0
+1823,1823,shobai eto disappoint kore ken,NONE,0,0,0,0
+1824,1824,amra shobai beissha tumi amar nesha,V,0,0,0,1
+1828,1828,keno tumi amar na,S,0,1,0,0
+1830,1830,ajke taratari ghumai jabo bole tomake knock dilam now bore me to sleep,O,0,0,1,0
+1835,1835,keno shobai mone kore amar post oder jonno,S,0,1,0,0
+1836,1836,Fuckboy der k gaillai labh nai tui kheth tai maiyya pote na,O+V,0,0,1,1
+1849,1849,bashai biri khaile ulta aro tension hoi,NONE,0,0,0,0
+1850,1850,amader ghore ekta telapoka preme pore hoye gelam boka,H,1,0,0,0
+1864,1864,Ami eto ugly ami ei quarantine eo meye potaite partesina,H,1,0,0,0
+1878,1878,iccha kore interest dekhachina bujhona keno,NONE,0,0,0,0
+1881,1881,ami eita mean korinai but okay,NONE,0,0,0,0
+1883,1883,tomake bhular jonno bakider shathe tanki mari,S,0,1,0,0
+1927,1927,toder ei don't rush challenge dekhe bujhlam confidence koto important. ki shundor suit kintu amon bhabe takai ase lagtese purai chod,V,0,0,0,1
+1929,1929,Darling ami personality dig kori so pera niyo na eto,H,1,0,0,0
+1936,1936,onek minute hoye gelo tomake stalk korinai,NONE,0,0,0,0
+1942,1942,porte boshchilam tomake niye shopno dekhe uthlam,H+S,1,1,0,0
+1945,1945,sometimes mone hoi ektu poralekha kora uchit,H,1,0,0,0
+1955,1955,ei pandemic er moddheo birthday celebrate kortosos bhalo kotha kintu ekta baaler cake kaatar jonno shobai mile haat na dile hoi na? eto madarchod kemne,O+V,0,0,1,1
+1959,1959,matha eto betha kore ken,NONE,0,0,0,0
+1960,1960,Din gula eto same same jacche jaa kori shob deja vu lage,NONE,0,0,0,0
+1962,1962,Ami eto introvert that nijer theke friend banaite parina friend der friend k befriend kori,H+S,1,1,0,0
+1988,1988,group e dank ekta joke marsilam keo haha react dei nai,H,1,0,0,0
+1989,1989,pasher basha iftar pathaise khawar por shudhu ghum ashtese,NONE,0,0,0,0
+2006,2006,Fact: Joto kom compliment korba toto tomar compliments and i love you's er daam thakbe. Less is more,S,0,1,0,0
+2011,2011,dekhte shundor kintu emne kheth,H+O,1,0,1,0
+2012,2012,Ami ekhono hope niye jege asi keno,S,0,1,0,0
+2015,2015,tumi interesting hole ajke ami tomake ebhabe ghost kortam na,S,0,1,0,0
+2020,2020,idk ami agge tomake keno bolinai but ekhon tomake bolinai bole tumi raag korba tai ami tomake bolbona,NONE,0,0,0,0
+2042,2042,baal chobi ta fati gese,V,0,0,0,1
+2043,2043,manush olpo te prem e pore jai and ami olpo te horny hoye jai,V,0,0,0,1
+2047,2047,Dao tomar haat dhuye di,NONE,0,0,0,0
+2060,2060,tomar jonno ami single,S,0,1,0,0
+2063,2063,shit eta ki korlam beshi lame chilo,S,0,1,0,0
+2065,2065,bar bar takaite iccha kore,NONE,0,0,0,0
+2071,2071,porte boshtam if tumi knock na dita,NONE,0,0,0,0
+2072,2072,tumi toh dekhi amar thekeo weird,S,0,1,0,0
+2075,2075,ami kori business tumi koro bitchness ahahaahaaokaywtfwasthatahahaha,O,0,0,1,0
+2077,2077,porte chai but mobile ta chartei partesina,NONE,0,0,0,0
+2082,2082,Amra shobai r̶a̶j̶a̶ starboy,H,1,0,0,0
+2085,2085,First ami marbo haat Erpor kandbo shararaat,V,0,0,0,1
+2086,2086,Tumi eto taratari reply dao bole tomar replies kono value nai stop texting that person and text me instead,NONE,0,0,0,0
+2089,2089,Chinta kortesi kalke gorib der k daan korbo kintu amar camera ta khuje pacchina,H+S,1,1,0,0
+2093,2093,Asho tomar mon ta bhalo kore dei,S,0,1,0,0
+2095,2095,hsc hobena so poralekha baad emneo portesilam na but okay P.S. Eta news na just amar speculation,NONE,0,0,0,0
+2105,2105,Tumi amar depression er jonno napa,S,0,1,0,0
+2106,2106,Ami onek eka tai ami sharadin post kori,NONE,0,0,0,0
+2115,2115,egula gaaner lyrics naki personal attack,H+S,1,1,0,0
+2136,2136,eto weird keno ami,S,0,1,0,0
+2137,2137,asho amar magic stick diye tomare guta mari,V,0,0,0,1
+2139,2139,kharap lagtesilo but biri kheye ekhon ami gangsta,V,0,0,0,1
+2147,2147,Tomar feelings ase and tumi shesh,NONE,0,0,0,0
+2159,2159,Pura gay hoye gelam rayhan bhai er dance dekhe,H,1,0,0,0
+2165,2165,Ammu ei year hsc dile corona virus hobe next year di,S,0,1,0,0
+2168,2168,tumi ki poralekha? cus amar tomake bhalo lagena,H+O,1,0,1,0
+2172,2172,amar bell nai keno,NONE,0,0,0,0
+2174,2174,Amar lagtese that ghurai firai ami tomakei biye korbo,NONE,0,0,0,0
+2181,2181,amar post e tomar react dekhe eto bhalo lagtese keno,S,0,1,0,0
+2183,2183,rayhan bhai o chole gese kintu tomar jonno ei feelings kokhono jabena,S,0,1,0,0
+2187,2187,Tumi ki HSC? cus amar mone hoi na ami ar kokhono tomake niye serious hote parbo,S,0,1,0,0
+2191,2191,ki shundor meye kintu amake toh reply dibena,S,0,1,0,0
+2206,2206,All these rain but tao tomar replies eto dry,H,1,0,0,0
+2211,2211,but amar toh netflix nai,S,0,1,0,0
+2219,2219,tumi ki cigarette? cus ami tomake eto miss kori that amar matha kharap hoye jacche,V,0,0,0,1
+2224,2224,tomar shathe time waste korte chai,S,0,1,0,0
+2229,2229,cholo bhalobasha exchange kori,S,0,1,0,0
+2234,2234,Eka eka lage but karor shathe kotha bolteo iccha korena,NONE,0,0,0,0
+2235,2235,Gaan ta agge bhalo lagto tui gawar por ar bhalo lagtesena keno jani,S,0,1,0,0
+2250,2250,and ami agey mone kortam ami sharadin bashai pore thaktam,S,0,1,0,0
+2272,2272,tomake agge bhalo lagtona kintu ekhon lage,NONE,0,0,0,0
+2274,2274,Tumi amar ami shobar,NONE,0,0,0,0
+2284,2284,Ami keno tomake potabo tumi potao,NONE,0,0,0,0
+2286,2286,tomar kotha chinta korlei heartbeat missing hoiya jai,S,0,1,0,0
+2292,2292,enough biri khai nai bole erokom lagtese naki?,V,0,0,0,1
+2293,2293,onek regret kortesi but etai jibon erokom onek chances ashbe but tao dhuru baal,NONE,0,0,0,0
+2301,2301,tumi bidesh chole gele ami ki korbo?,NONE,0,0,0,0
+2317,2317,toxic bedi ta mone korto ami o k amar jibone peye khub dhonno,O,0,0,1,0
+2325,2325,amar prem korar iccha nai just wanted you to know that damn tumi oneeek shundor,S,0,1,0,0
+2331,2331,did you guys know ami angul er opor ball ghuraite pari ? yeah ami ekdin duniya ta keo angul er opor ghurabo hahahaha not literally tho you know what i mean if what i told made sense I'm not sure if it makes sense but okay amar shomosha ki,H,1,0,0,0
+2355,2355,Meyera shudhu amar shathe safe feel kore but amake love korena...kenoooo,NONE,0,0,0,0
+2363,2363,Ekta chobi te bar bar heart react marte iccha kore,S,0,1,0,0
+2366,2366,Baire onek brishti keno tumi eto thirsty,V,0,0,0,1
+2371,2371,shit ami mone korsilam fake id chilo,NONE,0,0,0,0
+2374,2374,Tumi ki rayhan bhai? cus tomake agey bhalo lagto kintu ekhon ar moja pacchina,O,0,0,1,0
+2380,2380,keo kache ashte chaile emneo duure shorai ditam so i feel no difference,NONE,0,0,0,0
+2383,2383,asho tomar heda loose kore di,V,0,0,0,1
+2391,2391,ami ekdin onek bore hoile face reveal korbo not that amar face dekhar moto but tao,NONE,0,0,0,0
+2393,2393,ami onek boring tai keo amare bell deina,S,0,1,0,0
+2399,2399,Amake bhule jeyo na,NONE,0,0,0,0
+2414,2414,amar kono bel nai,NONE,0,0,0,0
+2417,2417,cholo quarantine e korbo valentines,NONE,0,0,0,0
+2428,2428,Amar sir amake na porai shudhu golpo kore,S,0,1,0,0
+2429,2429,kon duniya te asi nijeo janina,NONE,0,0,0,0
+2443,2443,knock diye de bhai toke emneo shobai ignore kore list e arekjon add hole oto difference ashe jabena,S+O,0,1,1,0
+2453,2453,Taratari ghumai jabo naki tomake miss korbo hmmmmm,NONE,0,0,0,0
+2456,2456,Weather er moto tumi din din hot hoye jaccho,V,0,0,0,1
+2459,2459,tumi chere dawar agge ami chere dibo,S,0,1,0,0
+2462,2462,onek taka chai kintu kemne pabo,H,1,0,0,0
+2475,2475,tomar shathe arektu kotha bolle amar jaa iq ase ogulao jabe,S,0,1,0,0
+2481,2481,Ami orokom mean kori nai but okay,S,0,1,0,0
+2493,2493,First amra khabo wine er pore korbo sixty nine,V,0,0,0,1
+2511,2511,Ekbar korle bar bar korte iccha kore,NONE,0,0,0,0
+2514,2514,Attention amaro bhalo lage but ami toh tor moto erokom korina,NONE,0,0,0,0
+2517,2517,Kono kichu moja lagena,NONE,0,0,0,0
+2521,2521,Friend: polata fuckboy Me: Ki bolos koita maiyya khaise? Friend: Arreh orokom na virgin fuckboy arki Me: ....,V,0,0,0,1
+2535,2535,"Rose diba tumi, arouse korbo ami",V,0,0,0,1
+2537,2537,Ayhay bhule story seen disi ekhon toh reply dite hobe,S,0,1,0,0
+2539,2539,Tumio suicidal amio suicidal cholo biye kori,NONE,0,0,0,0
+2540,2540,Obuuk bhai tor relationship ki etoi complicated that facebook relationship status it's complicated diye rakhsos?,S,0,1,0,0
+2541,2541,Raag uthele gali di khushi holeo gali di,S,0,1,0,0
+2558,2558,Hudai tomar opor time waste korlam,S,0,1,0,0
+2572,2572,Tumi chara shob meyera same tai tomar kache fiire elam,NONE,0,0,0,0
+2575,2575,Cholo tomar khaat bhangi,V,0,0,0,1
+2594,2594,biri khaile haga dhore,V,0,0,0,1
+2599,2599,Ami ki BNP? cus amake keo bell dei na,NONE,0,0,0,0
+2601,2601,Tiner chal e crow keno tomar standards eto low,H+O,1,0,1,0
+2602,2602,Chup thak bhai kaan pakais na,O,0,0,1,0
+2607,2607,Call diba bole ar call dao nai,NONE,0,0,0,0
+2627,2627,Ami ekbar ekta meye k hey pathaisilam o amake direct block mere dise,NONE,0,0,0,0
+2629,2629,Kapor chara aro shundor lage tomai,V,0,0,0,1
+2646,2646,Hsc er agge science er full syllabus kemne complete korbo?,NONE,0,0,0,0
+2655,2655,Ei year dui hajar manush bish kheye mara jabe cus it's dui hajar bish,H+S,1,1,0,0
+2658,2658,Tumi ki etoi lonely that tumi ekta anonymous page er shathe kotha boltoso?,H+S,1,1,0,0
+2660,2660,Shobai amake unfollow keno kore dei?,NONE,0,0,0,0
+2667,2667,"""Ek haate taali bajena tai dosh tomaro ase"" eta abar kemon logic",NONE,0,0,0,0
+2680,2680,Meyeder k murder korle ki ami lady killer hoye jabo?,H+S,1,1,0,0
+2695,2695,kaoke reply dite iccha korena,NONE,0,0,0,0
+2709,2709,Tumi lifeless bole eto taratari feelings catch koro,S,0,1,0,0
+2710,2710,Ami hsc niye serious na but tomake niye onek,NONE,0,0,0,0
+2738,2738,Meyetar kono kichui thick nai,NONE,0,0,0,0
+2746,2746,amar eto morar iccha keno,S,0,1,0,0
+2754,2754,cholo valentines day er jonno practice kori,V,0,0,0,1
+2759,2759,Baire norom bhitore gorom,V,0,0,0,1
+2766,2766,Roses are red keno tumi eto desperate,NONE,0,0,0,0
+2768,2768,Oufff eto shundor kemnee,NONE,0,0,0,0
+2770,2770,Sorry tumi ektu beshi hot ki bolte gesilam bhule gesi,V,0,0,0,1
+2771,2771,Ghum theke uthte bhalo lagena,NONE,0,0,0,0
+2773,2773,Tui amar deho pabi kintu moan pabina,V,0,0,0,1
+2774,2774,Ajke ektu kom thanda lagse,NONE,0,0,0,0
+2780,2780,Tumi bed and amar ghum ashtese,V,0,0,0,1
+2782,2782,Bujhlam na tui poralekha koros eta accept korle ki hoi? hudai amake shantona des and exam e thik e pass koros,H,1,0,0,0
+2787,2787,"Hello shundori, tomar friend er naam ki?",NONE,0,0,0,0
+2796,2796,Ami aro lomba hote chai,NONE,0,0,0,0
+2801,2801,Amar phone off howa porjonto ami post kortei thakbo,S,0,1,0,0
+2812,2812,tomake ki bujhbo nijekei toh bujhina,NONE,0,0,0,0
+2814,2814,Mone korsilam tomake miss korbo,S,0,1,0,0
+2815,2815,Chakma meyeta shundor naki or corona virus thakar chances beshi tai o k shundor lagtese,H+S+O,1,1,1,0
+2836,2836,Issire amar choice agge ki baaje chilo,S,0,1,0,0
+2842,2842,Baire ami tomar nipples er moto hard bhitore ami tomar boobs er moto soft,V,0,0,0,1
+2844,2844,Ghumaite chai ekkebarer jonno,NONE,0,0,0,0
+2847,2847,Takaite giye eye contact hoye gese,NONE,0,0,0,0
+2850,2850,amader moddhe koto meal,S,0,1,0,0
+2867,2867,Gaan ta agge bhalo lagto but shunte shunte kaan peke gese,S,0,1,0,0
+2868,2868,Ami keno portesina ami keno erokom,NONE,0,0,0,0
+2874,2874,Tomar kotha mone porle nervous hoye jai abar approach kortam bole,NONE,0,0,0,0
+2875,2875,eshob emotions sudar time nai,NONE,0,0,0,0
+2885,2885,Ki porimaan lifeless hole ekta drama start hole manush excited feel kore,NONE,0,0,0,0
+2907,2907,Tomar ETO KISHER DEPRESSION? HAE?,NONE,0,0,0,0
+2908,2908,Tor hashi dekhe amar hashi ashtese,S,0,1,0,0
+2909,2909,Tumio lonely amio lonely lets fuck,V,0,0,0,1
+2926,2926,First churi korbo tomar mon er por tomar virginity,V,0,0,0,1
+2928,2928,Majhe majhe ami lukai lukai hindi gaan shuni,NONE,0,0,0,0
+2938,2938,Din gula kemne kemne jacchega kichu bujhina,NONE,0,0,0,0
+2950,2950,keno nai amar valentine,S,0,1,0,0
+2966,2966,Ajke solar eclipse dekhlam . . . . . . . . . . . . . . . . . . . . . . . . . . . . . video te,NONE,0,0,0,0
+2968,2968,Almost everyone: 31st er plan ki? Me: Bhaat khai ghum,H,1,0,0,0
+2969,2969,Manush dumb hoi but eto kemne dumb,S,0,1,0,0
+2971,2971,Boro boro birthday wishes gula dekhle cringe lage,NONE,0,0,0,0
+2996,2996,Oouff tumi pura ekta mood,NONE,0,0,0,0
+2998,2998,Nudes dekhe interest chole gese,V,0,0,0,1
+2999,2999,Ar koita biri khaite hobe more jawar jonno,V,0,0,0,1
+3001,3001,Kalker jonno ekta date lagbe,NONE,0,0,0,0
+3006,3006,Ami eto brilliant keno,S,0,1,0,0
+3010,3010,Ekdin ami bts fan hobo then otirikto shundor ekta gf pabo tokhon amar ar eishob ajaira shitposting korar time thakbena,S,0,1,0,0
+3013,3013,Tui eto shundor tor bf eto kheth ken,NONE,0,0,0,0
+3017,3017,Hudai romantic movie deikkha mood noshto korlam baal,H,1,0,0,0
+3025,3025,Kire meyeder na bole lomba lomba polapain bhalo lage? Ami 6'1 and ami ektu kore smile korle amar 1ta dimple jeta ami pen di guta mari mari banaisi oita dekha jai and arekta half dimple (jeta currently pen di guta mara hocche) oita ektu kore dekha jai Now tell me where tf is my gf?,H+S,1,1,0,0
+3038,3038,Madarchod but mon ta bhalo,H+V,1,0,0,1
+3049,3049,Amar crush page e like dilo ekhon eto nervous lagtese that ki post korbo kichu bujhtesina,S,0,1,0,0
+3065,3065,Ajke beshi kotha bole felsi. Beshi kotha bolle birokto lage,O,0,0,1,0
+3073,3073,Meyera women rights niye sharadin post dei kintu oder k thappor marle ulta turned on hoi jai ( ͡° ͜ʖ ͡°),H+V,1,0,0,1
+3075,3075,It's all fun and games with a busty meye untill or shathe rickshaw e uthte hoi,H+O,1,0,1,0
+3087,3087,Uggh maiyyar interest chole jacche din din abar ignore kora start korte hobe,S,0,1,0,0
+3099,3099,Care na korle or profile stalk ken koros?,O,0,0,1,0
+3102,3102,Ata gache tota pakhi Dalim gache mou Eto shundor beard tomar Kintu kothai tomar bou?,S,0,1,0,0
+3104,3104,Ammur shathe rude behave korar por eto koshto keno lage baal,NONE,0,0,0,0
+3105,3105,Ami late e class e jai cos amar classtime er majhkhane entry marte bhalo lage,NONE,0,0,0,0
+3112,3112,Teacher: Question e kono problem ase? Thakle ekhon bolo bar bar ashte parbona Me: Question toh thik ase but only problem is answer ta parina,H+S,1,1,0,0
+3113,3113,Love bite diye pura gola lal banai felse. Ekhon bashai jabo kemne?,S+V,0,1,0,1
+3117,3117,Na amake bujhe na amar jokes bujhe,S,0,1,0,0
+3126,3126,Shundor but out of my league,H,1,0,0,0
+3131,3131,Kire etogula biri khawar por o erokom keno lagtese,H,1,0,0,0
+3132,3132,Pro tip: Meyeder theke maiyya potanor advice nis na,S,0,1,0,0
+3144,3144,Fun fact: Post like jara dibe tara direct ban khabe...Matro onek gula k ban marsi onek shundor meye o chilo but kichu korar nai,H+S,1,1,0,0
+3155,3155,Aj single bole ami kalke kono action pabona,S,0,1,0,0
+3160,3160,Amar earphones back de madarchod,NONE,0,0,0,0
+3162,3162,Nijer opor kono control nai amar,S,0,1,0,0
+3163,3163,Biri na khaile ajke onek borolok hoitam,H+S,1,1,0,0
+3165,3165,Aj biri nai bole tomar kotha mone portese,H,1,0,0,0
+3167,3167,Ah fcuk taratari reply diye disi ekhon amake lifeless mone korbe,S,0,1,0,0
+3185,3185,Practical diye labh ki emneo fail,S,0,1,0,0
+3186,3186,Meyeta shundor but tiktok video banai ken baal,NONE,0,0,0,0
+3217,3217,Ei bochor e first time ami light off kore ghum jacchi. Goodnight,H,1,0,0,0
+3221,3221,Keno fiire ele abar Barate dukher bhar,S,0,1,0,0
+3227,3227,Sorry tumi onek cute tai nervous hoi gesilam ami ashole eto weird na,S,0,1,0,0
+3230,3230,Ashepashe eto gay keno,NONE,0,0,0,0
+3233,3233,Moan paisi but mon painai,S,0,1,0,0
+3237,3237,Eto koshto kothai pele?,S,0,1,0,0
+3248,3248,Death note e kamla lekhle Bangladesh er half population mara jabe,H+S,1,1,0,0
+3260,3260,Tumi eto bhalo j sometimes mone hoi ami tomar company o deserve korina,S,0,1,0,0
+3267,3267,Bhai tui ki etoi lifeless that eto gula bochor por o move on korte paros nai hm?,NONE,0,0,0,0
+3271,3271,Tomar flat girlfriend k amar kache pathai dio Ami taake shustho kore dibo,H+O,1,0,1,0
+3272,3272,Knock dibo naki decide korte korte meyetar biye hoye jabe,H,1,0,0,0
+3276,3276,"Tor crush er shathe ekta bhalo conversation hobe and tui kolbalish jorai dhore tor crush er shopno dekhe dekhe cuddle korbi and 1-2weeks por bolbi ""ami eto taratari manush er shathe keno attach hoi and keno amar eto feelings?""",S,0,1,0,0
+3278,3278,Double text koros ken shob kotha ek text e lekhle ki hoi naki tor twitter er moto prottek text e 140 character limit ase?,H+S,1,1,0,0
+3280,3280,Exam choltese bole ammu amake ekhon uthai dise so that ami shokal bela mon diye poralekha korte pari but ami toh 45mins agge ghumaisi,H,1,0,0,0
+3281,3281,Syllabus kemne shesh korbo oi tension e porai mon boshtesena so 1 hour break nilam,S,0,1,0,0
+3282,3282,Damn meyeta shundor hoye gese i should text her back,S,0,1,0,0
+3288,3288,Kedona kedona you are my sonia,S,0,1,0,0
+3290,3290,J meyera instagram story games gula khele ora single and ora kheth.,S,0,1,0,0
+3310,3310,Kalke practical and ekhon kheyal korsi that 2nd paper er jonno alada copy nite hoi,H,1,0,0,0
+3315,3315,Taake bole dio that or boobs boro na hole ajke keo crush khaitona or opor,H,1,0,0,0
+3316,3316,Ami eto introvert j ekdin manusher shathe socialise korle 3din bashai boshe break nite hoi to recharge myself,S,0,1,0,0
+3330,3330,Eto koshto kore pore labh ki? emneo toh job pabona not that ki ami onek koshto kore poralekha kortesi but tao,H,1,0,0,0
+3333,3333,"Bhai light off korle flat ra busty hoi jai na so stop this ""liGhT oFf kOrLe sHOb sAmE"" shit",H+V,1,0,0,1
+3343,3343,Dress ta tomake manacchena khule felo,H+S,1,1,0,0
+3349,3349,Attached chilam but ekhon sudina,NONE,0,0,0,0
+3350,3350,Ar koidin mota friend der dud tipe tipe cholbo?,V,0,0,0,1
+3351,3351,Shobai mone kore tui fuckboy but ora ki jane tui ekhono move on tao korte paros nai?,H,1,0,0,0
+3376,3376,Kenoooo tomar baaje kotha ekhonooo kaane baajeee,S,0,1,0,0
+3378,3378,Chup thak madarchod kaan pakais na,O,0,0,1,0
+3384,3384,Meyer virginity niye jara onek obsessed oder nunu ashole otirikto choto and oitar opor jodi meye non-virgin hoi tahole toh ora lagaile meyera ter o pabena... and oder buuk e already onek koshto ar oitar opor tomra oder k cheap mentality bole bole bully koro,H+S,1,1,0,0
+3393,3393,Eto aesthetic feed maintain koro tao tumi single,S,0,1,0,0
+3397,3397,Bro amar jor uthenai bro ami emnei hot bro,S,0,1,0,0
+3403,3403,Class 7 e ekbar porar theke 1 hour break nisilam ekhono break ta shesh hoi nai,H,1,0,0,0
+3405,3405,Tomar upor crush khaitam but tomar daat beshi holud,S,0,1,0,0
+3412,3412,"Ami ""rural"" pronounce korte parina",S,0,1,0,0
+3417,3417,Almost 2020 and tora ekhono dab mere pic tulos,H+S,1,1,0,0
+3422,3422,Nije derby kheye friend er benson switch niye chobi tule story dite dekhechi,H+S,1,1,0,0
+3423,3423,Unpopular opinion: corola bhaji moja ase,O,0,0,1,0
+3438,3438,Lomba o asi and guitar(not nunu) o bajaite pari tarpor o maiyya potaite parinai,H,1,0,0,0
+3440,3440,Ajke amar lame thoughts mathai ashtesena so eta dilam toke entertain korar jonno,NONE,0,0,0,0
+3443,3443,Amar biral thakle biral er naam pussy rakhtam,H+V,1,0,0,1
+3446,3446,Single der jonno Bijoy dibosh Couple der jonno BJoydibosh,S,0,1,0,0
+3464,3464,Meyeta ta otirikto cute but o BTS fan,H,1,0,0,0
+3470,3470,Amar friend ra exam shesh kore biri khacche and ami bashai boshe boshe ei post ta type kortesi,NONE,0,0,0,0
+3476,3476,Meyetar makeup sense eto baaje j makeup korle aro kheth lage....Arreh bhai amake diti aro bhalo kore makeup kore dite partam,H+S,1,1,0,0
+3480,3480,Ajke almost gec moure moure jetam,H+S,1,1,0,0
+3482,3482,Doctor bolse thanda lagle gorom jinish khaite so your place or mine?,H,1,0,0,0
+3486,3486,Ekdin ar eto kanna korar energy thakbena tarpor shob thik hoi jabe,S,0,1,0,0
+3490,3490,Ghum theke thik moto uthte amar 3 ghonta lage,H+S,1,1,0,0
+3494,3494,I thought amar classmates gula normal chilo but ora dekhi birthday te dim maramari kore,H,1,0,0,0
+3495,3495,No ami Bangladesh er khela dekhina..Jotobar e dekhsi shob shomoi harse so i support the team by not watching the match,H,1,0,0,0
+3502,3502,Amio jege asi shudhu awaj kortesi na arki,H,1,0,0,0
+3503,3503,Ajke jara ghumai gese kalke oder ke arekta gujob shunai ami ghumai jabo.,H,1,0,0,0
+3504,3504,Uffo ektu porte boshchilam ar Facebook ta thik hoye gelo,H+S,1,1,0,0
+3515,3515,"Onek hoise ekhon mon ta ferot daw, porte boshbo.",S,0,1,0,0
+3529,3529,sad song shunle ekshate 3 jon ke miss kori.,H+S,1,1,0,0
+3532,3532,Tow aunties: areh bhabi choto manush kichu bujhbe na apni bolen Me the Choto manush:,H,1,0,0,0
+3541,3541,Them: dara dara khais na ekta Chobi tuli Me:,H,1,0,0,0
+3548,3548,Amar onek shomosha onek,H+S,1,1,0,0
+3553,3553,"text koro lojja peyo naa, amio pochondo kori tmake",H,1,0,0,0
+3554,3554,aaj porjonto kono cheler sathe call e kotha boli nai,S,0,1,0,0
+3556,3556,"Can't wait to say ""tomar boyoshe amra bideshi media re email lekhtam ar tomra ek page lekhteo parona?""",H,1,0,0,0
+3566,3566,"I am so gorib that my all plans start from ""jodi taka thakto tahole..""",S,0,1,0,0
+3569,3569,Shokale taratari uthbo bhebe 12 tay shuye gesilam ar ekhon......,H+S,1,1,0,0
+3571,3571,Geyan dis na to ja dure ja,S,0,1,0,0
+3576,3576,"Prem tikbe kina, bashay mene nibe kina, bashay kibhabe bolbo eishob bhebe bhebei ar prem kora hocche na.",H,1,0,0,0
+3579,3579,Tmr to monehoy onekgula facewash lage. Etogulo chehara,H+S,1,1,0,0
+3583,3583,Ami je bhoy e dinner korlam na ekhon etar dai bhar ke nibe?,H,1,0,0,0
+3588,3588,Anuv jain ke chini na tai chupchap boshe asi,H,1,0,0,0
+3614,3614,Bujhtesi na ki hoise amar,H,1,0,0,0
+3623,3623,Jibone ekbar senior bhaiyar shathe prem korle erpor theke classmate chele gulare chotto baccha mone hoy.,H,1,0,0,0
+3633,3633,"Emon din ashche je bondhu phone diye bole ""Dost messenger check kor text disi"".",H,1,0,0,0
+3635,3635,Jontronai amar moto komol-moti shishur mukher bhasha joghonno hoye gese,H,1,0,0,0
+3644,3644,Ekbar moshkari kore pora lekha na kore porerdin exam diye pash korsilam erpor theke ar pora shuna kora hoy na!,H+S,1,1,0,0
+3646,3646,imagine a boy who prays to God that he gets to marry you. okay stop imagination Ekhon ja porte bosh,H,1,0,0,0
+3648,3648,Best friend: please tui ektu fahim ke bujha ami oke chara bachbo na Me:,H,1,0,0,0
+3651,3651,"While waiting for the right person, apatoto wrong tar loge moja loi.",H+S,1,1,0,0
+3662,3662,"manush amake block kore aabr nije thekei unblock kore cz, they miss me",NONE,0,0,0,0
+3663,3663,Dorkar hole id deactivate kore ghumabo,H,1,0,0,0
+3664,3664,Mathay chul nai abar boro boro kothaaaa,NONE,0,0,0,0
+3667,3667,Ei bochor eto biya shadi hoitese bapreee,NONE,0,0,0,0
+3671,3671,When you said ''jaw kotha bolba na amar shathe'' But He calling you on the phone.,NONE,0,0,0,0
+3704,3704,*ammu amake shokal 8 tay tule dio to* Ammu at 6.00am:,H,1,0,0,0
+3707,3707,Bestfriend: group e ki hoise pura kahini bol.. Me:,NONE,0,0,0,0
+3709,3709,Majhe majhe mon ta chay boyfriend tare chaira diya single thaki,H,1,0,0,0
+3715,3715,Bujchi ekhon ar amare bhallagena,NONE,0,0,0,0
+3750,3750,Reels dekhte dekhte reels o sesh hoye gelo tumi ar text dila na,H+S,1,1,0,0
+3752,3752,Sometimes I share my feelings r tomra haha diye chole jao.,H+S,1,1,0,0
+3757,3757,emon ek gushti te asi karor biya shadir nam nai. Jokhoni amar exam thakbe tokhoni egula biya korbe khobish er dol.,H,1,0,0,0
+3773,3773,Them: tomar name e to ekta baaje kotha shunsi kintu ki shunsi bolbo na karon promise korsi Me:,NONE,0,0,0,0
+3779,3779,Kharap lagtese karon....................taka lagbe amar,H,1,0,0,0
+3780,3780,Amar Bestfriend duidin por por shobai rei true love kore.,S,0,1,0,0
+3792,3792,Tor to bedi shob bochori worst jay. Konodin shuni nai kono year tor jonne best gese!,O,0,0,1,0
+3805,3805,"""Tumi onek chupa chap thako"" Hae bhai tuio chup thak eto bokor sokor koris na",H,1,0,0,0
+3808,3808,"Desi parents will say ""tui ekhono pura duniya ta dekhos nai"" and won't let you see the duniya as well karon shondhar age bashay ashte hobe.",H+S,1,1,0,0
+3814,3814,Koto gula sagol ase jegula mone kore sad manei love related problem.,NONE,0,0,0,0
+3822,3822,Dakat dhorte giye get together hoye gelo,H,1,0,0,0
+3831,3831,Me making lame excuse to my Boyfriend cause amar kono dosh hote pare na.,S,0,1,0,0
+3849,3849,Eto gula porikha kharap diyeo lojja ashena ken?,S,0,1,0,0
+3852,3852,Kalke theke kan duita khuila ghumaite jabo jeno kono gujob tujob shunte na hoy!,S,0,1,0,0
+3855,3855,Na onek hoise ekhon theke career niye serious hote hobe.,H,1,0,0,0
+3864,3864,Amake short syllabus dile amio shetare abar short Kori,H+S,1,1,0,0
+3876,3876,Ajke sharadin sad post dilam tao ekta manush o ask korlo na admin kemon ache. Where is manobota?,H,1,0,0,0
+3904,3904,Pakhi bole dakteso jokhon ural dibo tokhon kanna kati korte parba na bole dilam,S,0,1,0,0
+3917,3917,Flirt korte jaia nijei preme pore gesi,H,1,0,0,0
+3942,3942,Teacher: ajke ekdom kom porabo After 1hour:,S,0,1,0,0
+3943,3943,Onek koshte tor baaler Golpo gula shojjo kortesi taratari phone rakh,H,1,0,0,0
+3946,3946,When someone you hate tries to make a joke*,NONE,0,0,0,0
+3947,3947,me when someone’s trying to talk to me while i have headphones on*,NONE,0,0,0,0
+3949,3949,when you're wating to tell a joke in group chat but the conversation starts to change,H,1,0,0,0
+3956,3956,Shuvo kaj korei felsos ekhon abar ki korte chas?,S,0,1,0,0
+3959,3959,Random chele hothat nam dhore dakle buk kepe uthe.,H,1,0,0,0
+3974,3974,Ar kichudiner moddhe amar birthday ashtese. Shobai gift niye ready thaken.,S,0,1,0,0
+3999,3999,Jai nijeke ektu hurt kori,S,0,1,0,0
+4002,4002,Ami nijeke onek kichu mone kori,S,0,1,0,0
+4006,4006,Nobody: My naughty mind at 2.00am to my crush: *Asho ekshate ghumai*,H+V,1,0,0,1
+4013,4013,Jokhoni Ami nijer jonne cha banaite jabo tokhoni bashar shobar cha khaite iccha kore.,H,1,0,0,0
+4015,4015,Me: kichu hoy nai amar Also me after 2 second: if you don't want to.........,H,1,0,0,0
+4029,4029,Chole ashlam abar tomader jalaite,NONE,0,0,0,0
+4032,4032,Sense of humour jodi bhalo na hoy tahole ami jiboneo tomar preme porbo na bole dilam.,H,1,0,0,0
+4035,4035,~Sent it by Maruful houqe Apu.,NONE,0,0,0,0
+4048,4048,Hae ami ignore korte parbo kintu tumi korte parba na.,S,0,1,0,0
+4057,4057,Ar shojjo hoche na,NONE,0,0,0,0
+4058,4058,Keno ami eto eka,H,1,0,0,0
+4067,4067,Ami bhul bhaal bokleo tui ekmot poshon korbi.,H,1,0,0,0
+4068,4068,Ami eto kisu bujhi na shobai amar opinion agree korte hobe bas kotha shesh.,S,0,1,0,0
+4078,4078,Tumi na thakle messenger e dhukhte iccha kore na.,NONE,0,0,0,0
+4080,4080,Ashen shobai shobar pasai taki,S+V,0,1,0,1
+4088,4088,Quarantine e dekhi shob gula biya koira feltese,H,1,0,0,0
+4097,4097,Tumi emon korteso keno?,NONE,0,0,0,0
+4098,4098,Bhodro bhashay kotha bol amar shathe,S,0,1,0,0
+4115,4115,Ajke taratari ghumai jabo* Also me at night:,NONE,0,0,0,0
+4122,4122,Etto norom je ekshathe onekjon thake,S,0,1,0,0
+4125,4125,"Manush Crush ke abar feelings confess kore kemne? Ami to more geleo bolbo na amar crush ke. Chup chap crush khabo, chup chap bhule jabo.",H,1,0,0,0
+4127,4127,Jedike takai shudhu biya ar biya.,NONE,0,0,0,0
+4131,4131,Iccha kortese shamne agaia nijer future ta ektu deikha ashi ar koto hoga mara khawa lagbe.,S,0,1,0,0
+4133,4133,Tomar love of life etto bar change hoy keno?,H+S,1,1,0,0
+4137,4137,Permission chara ar ekbar call dibi to tore Latthi maira ekdom chande pathai dimu.,S,0,1,0,0
+4143,4143,Matha noshto hoye gesilo tai tor preme porsilam ekhon matha thik hoye gese amio prem theke uthe gesi. Lena dena shesh!,H,1,0,0,0
+4154,4154,"Prothom prothom amake Shobarei bhalo lage, Erpor aste aste amar true face dekhe ami kotto boro snake.",H+S,1,1,0,0
+4156,4156,Tomra keo ki dite paro premik er bhalobasha,NONE,0,0,0,0
+4163,4163,"Bolse ghum theke uthle call dibe, 17 ghonta hoi gese tui ghumaisos naki moira gesos?",H,1,0,0,0
+4168,4168,Friend: Dost patchup korai de Me:,H,1,0,0,0
+4172,4172,Uff peyaj chilte chilte horny hoye gese,V,0,0,0,1
+4173,4173,Ki ektaa jeno nai nai lagtese Oh Boyfriend.,H,1,0,0,0
+4178,4178,Shobai etto rege ase keno amar shathe,NONE,0,0,0,0
+4179,4179,She ekai mon theke shundor,H,1,0,0,0
+4180,4180,Shiitkale onek beshi mood swing kore idk why.,NONE,0,0,0,0
+4181,4181,Uthleo boka khai Boshleo boka khai,S,0,1,0,0
+4190,4190,Ajke ami shobai ke ignore korbo,S,0,1,0,0
+4209,4209,toxic relationship Step one : tomar Facebook password ta ektu daw to,H,1,0,0,0
+4218,4218,"Duidin dhore bashay mehman er baccha ekta ase ami je kobe tare upor theka asar maira felai di, shojjo hoitese na ar amar. Sharadin amar mobile niyaa tana tani korbe beyaddop khaishta.",NONE,0,0,0,0
+4219,4219,Iccha kortese modh todh khaia ek konay pore thaki.,S,0,1,0,0
+4221,4221,ekdin onek Boro lok hobo,S,0,1,0,0
+4226,4226,Duidin kotha bolsi ekhon ar bhalo lagtese na.,H,1,0,0,0
+4236,4236,Girl's also spend money on man kintu toder moto chillai chillai bole beray na.,NONE,0,0,0,0
+4243,4243,Biroktir last stage e chole aschi ami.,S,0,1,0,0
+4246,4246,Tore bujhai ki ar tui bujhos ki sagol kothakar.,H,1,0,0,0
+4248,4248,Jarei bhalo lage shei tar Ex re bhulte pare na,H+S,1,1,0,0
+4251,4251,Din din shob bhule jacchi,H+S,1,1,0,0
+4257,4257,Hearing BESTFRIEND'S breakup story again and again now when her relationship going shukhi I still wait abar kobe Breakup hobe abar Kobe Kanna kati dekhbo!,S,0,1,0,0
+4260,4260,Someone: tomake chara ami bachbo na Me:,NONE,0,0,0,0
+4284,4284,"Hotath Pora lekha korte iccha kortese, kono rog tog hoilo kina bujhtesi na.",S,0,1,0,0
+4289,4289,"Ami jani amar boyfriend ghumanor nam diya or ex re ""i miss you"" text ditase. Karon amio ghumanor nam diya amar ex er shathe same kaj kortesi.",H,1,0,0,0
+4291,4291,Tumi ahamori kisu na tao je keno tomar jonne mon kande bujhi na,S,0,1,0,0
+4292,4292,Kotodin kotha hoy na amader,S,0,1,0,0
+4293,4293,Binod er gushti kilai,H,1,0,0,0
+4299,4299,Tumi ignore korleo ekhon kichu jay ashe na.,S,0,1,0,0
+4300,4300,Nobody: Girl's to their innocent boyfriend: ami jodi chole jete chai tumi ki jete diba amake?,S,0,1,0,0
+4314,4314,"Tomra jara ex er shathe patchup koranor jonne friend der chap daw tara ki bujho na ""Jor kore bhalobasha hoy na""? Apsarap amagore mainkar chipay felaia jontrona des ken?",S,0,1,0,0
+4322,4322,Icha kortese bish tish khaiya chegai poira thaki.,S,0,1,0,0
+4328,4328,Mone hoitese ghumer oshudh khaisi bhaii etto ghum ken ashe.,S,0,1,0,0
+4334,4334,Oshabhabik ekta onubhuti hocche buker bhitor.,S,0,1,0,0
+4339,4339,When I'm losing an argument* Me:,NONE,0,0,0,0
+4342,4342,Ami ashole pretend kori ami onek sad kintu bhitore bhitore ami onekboro shoytan.,H,1,0,0,0
+4351,4351,Ekta kaj o shanti mote kora jay na ei bashay khali complain ar complain,NONE,0,0,0,0
+4355,4355,Ami ekta pagol ar amar post jara share de tara aro boro pagol,S,0,1,0,0
+4359,4359,Tomake dekhe mathar tar chire gese,H+S,1,1,0,0
+4380,4380,Amare kemne shame korbi ami nijei ekta shamless.,H,1,0,0,0
+4382,4382,Ar kichudin por amar birthday Shobai ready thak,NONE,0,0,0,0
+4393,4393,Thappraia shobar choddo gushti urai dibo.,S+O,0,1,1,0
+4398,4398,Tomar text e kono effort nai,H,1,0,0,0
+4399,4399,Duniyar manush mortese ar amar bestfriend cheka khaitese,H,1,0,0,0
+4415,4415,Jake dekhi takei thappraite mon chay.,S,0,1,0,0
+4418,4418,Jibone pora lekhai holo ashol jinish,S,0,1,0,0
+4430,4430,"Teacher: ei tumi daraw, pora bolo Me:",S,0,1,0,0
+4439,4439,"BestFriend amake hangout er nam diya niye jay erpor or boyfriend er shathe dekha kore tarpor sharadin ami tader ""kapolgols"" pic tuli di.",H,1,0,0,0
+4442,4442,Din din aggressive hoye jacchi,H,1,0,0,0
+4460,4460,I hate it when my joke turns into an explanation. Feel me?,H,1,0,0,0
+4463,4463,Shobai bhabe ami busy kintu ami to iccha korai ignore kori shobai re hahaha.,H+S,1,1,0,0
+4464,4464,Amar matha etto gorom je ami mathar upor patil boshaia dim bhajte parbo ekhon.,S,0,1,0,0
+4465,4465,Shobai amar theke dure thaken,NONE,0,0,0,0
+4480,4480,Bish tish khaaia ek konay pore thakte iccha kortese.,S,0,1,0,0
+4484,4484,"Nijeke eto chalak mone korio na, ami onek kichu bujheo na bujhar bhan dhori.",NONE,0,0,0,0
+4500,4500,Kothay chader-kona Kothay kuchuri-pana,O,0,0,1,0
+4510,4510,Amar moto etto cute meye ke kibhabe ignore koro tumi?,NONE,0,0,0,0
+4511,4511,Abeg er maire baap.,H,1,0,0,0
+4517,4517,Majhe majhe kichu manush wrong hoileo agree kori so they stop talking.,NONE,0,0,0,0
+4528,4528,Ar ekbar shudhu eishob comment koris toder shob gulare ban marbu madarchud.,O,0,0,1,0
+4539,4539,Morteo iccha kore na Bachteo iccha kore na Prem korteo iccha kore na Single thakteo iccha kore na Ki shomosha amar?,H,1,0,0,0
+4549,4549,Duidin por por abeg er lai mara na khaile to amar dil e shanti lage na.,NONE,0,0,0,0
+4550,4550,Ami chat e o fake hoite pari na bhai ! Ki ami !,S,0,1,0,0
+4554,4554,Desi males complaining shorbot e chini hoy nai in iftaar instead of helping out.,H+S,1,1,0,0
+4555,4555,EKDOM CHUP THAK mejaj gorom kintu.,NONE,0,0,0,0
+4558,4558,Them: chehara dekhsos nijer? Me:,NONE,0,0,0,0
+4562,4562,Komboler tole kar lai kando hae?,O,0,0,1,0
+4579,4579,Ami onnoder shathe flirt kore check korsi that tomar jonne amar feelings actually true kina and the result is.......,NONE,0,0,0,0
+4589,4589,When i see my best friend share cheka khawa posts.,NONE,0,0,0,0
+4590,4590,"When you ask your girlfriend ""what's wrong"" and she says ""kichu na, amar kichu hole tomar ki jay ashe?""",S,0,1,0,0
+4598,4598,"Ghum theke tule abar jigesh kore ""kire ghumaitesila?"" na bhaai desh bhromon korte gesilm apner shathe.",H+S,1,1,0,0
+4601,4601,Tor request accept korai amar bhul hoise jottoshob.,O,0,0,1,0
+4604,4604,"Kotodin hoye gelo tomar shathe breakup kortesi na, ajke ekta notun bishoy niye jhogra korbo wait.",H,1,0,0,0
+4616,4616,Onnoder cousin gula koto free ar friendly hoy ar amar cousin gula ekekta star jolshar shoytan mohilader moto khali pech lagabe.,NONE,0,0,0,0
+4621,4621,"Ajke ami ghum theke taratari uthe gesi, uthe dekhi shobai ghum. Ghumabei to shara raat mobile chalaile to emoni hobe beyakkol er dol.",H,1,0,0,0
+4624,4624,Koto jon re je biya korte chaisi ami ei jibone hishab nai.,H,1,0,0,0
+4626,4626,"Khida nai kintu tumi ador kore ""kheye asho"" bolle khidao eshe jabe amio khete jabo.",S,0,1,0,0
+4630,4630,Kibhabe 2 minute e ghumaite hoy video ta 15 minute dhore dekhlam.,H,1,0,0,0
+4656,4656,Dui chokhe shob ondhokar dekhtesi dost.,NONE,0,0,0,0
+4659,4659,Dupur 12 ta baaje ghum theke uthsi bole amake bashay nasta dewa hocche na Now i want justice.,H,1,0,0,0
+4669,4669,School canteen be like: *uncle uncle amake ekta shingara eije uncle*,H,1,0,0,0
+4681,4681,Arrange marriage korbo naki love marriage korbo eto kisu bujhi na ami biye korte parlei khushi kotha shesh.,H,1,0,0,0
+4682,4682,Ekta chobio shundor ashe nai.,NONE,0,0,0,0
+4685,4685,Me as a Wife *Dekhi to shala ki koros tui*,NONE,0,0,0,0
+4686,4686,Cha er bhitor dub dibo ekhon.,S,0,1,0,0
+4688,4688,Boys- majhe majhe amar ex amake onek torture korto. *Me on my mind*,NONE,0,0,0,0
+4712,4712,Onek koshto ase amar kache chaile shobai bhag kore nite paro amar theke.,H,1,0,0,0
+4714,4714,Lebu katar por je sheta fridge e rakhi hoy duidin thakbe nahoy dui bochor.,H,1,0,0,0
+4715,4715,Ammur shathe kono chobi nai amar.,NONE,0,0,0,0
+4723,4723,Batash ashlei WiFi Nora chora shuru koira de jottoshob.,H,1,0,0,0
+4742,4742,Evabe cheat korle to dhora kheye jaba asho tomake ami shikhai how to cheat.,H+S,1,1,0,0
+4759,4759,"Story te ekta khabarer chobi dile kotogula khaishta knock diya bole ""amake chara kheye felso?"" Ho re modon tore charai khaia felsi. Kissse ekhon? Ki korbi? Chini na janina tor koler upor boisha khawa uchit chilo amar tai na?",S+V,0,1,0,1
+4762,4762,RIP my boi khata.,H,1,0,0,0
+4767,4767,Kotodin gali dichi na Mash Allah.,S,0,1,0,0
+4774,4774,Bar bar pani khaite giye mone hoy ami roja.,S,0,1,0,0
+4779,4779,Tomare ar ager moto bhallagena.,NONE,0,0,0,0
+4784,4784,- Dost ekta kotha boli? Hashis na please....... *Me already*,H,1,0,0,0
+4792,4792,Emon bhabe chill kortesi mone hoitese amar pora shuna duniya thekei bad.,NONE,0,0,0,0
+4797,4797,Sharadin khida lage ar ghum ashe,H,1,0,0,0
+4803,4803,Ehh shokher to komti nai,H,1,0,0,0
+4807,4807,Kuttar moto ghum ashtese.,H,1,0,0,0
+4808,4808,Daraw ami amar best friend er shathe kotha bole dekhi ow ki bole tomake niye.,H,1,0,0,0
+4811,4811,"Mon ta bhainga diya koy ""ghumai jaw""! Na kuttarbacha ami ekhon kanna kormu.",NONE,0,0,0,0
+4814,4814,Keno shudhu amie bar bar text dibo?,O,0,0,1,0
+4820,4820,Rastay jaia nachte mon chaitese.,S,0,1,0,0
+4823,4823,Moira jabo tar poro crush ke bolbo na tar upor crush khaisi ami. Ego te lage bhai.,NONE,0,0,0,0
+4825,4825,Nijeke joto dekhi toto beshi motivate hoi.,S,0,1,0,0
+4834,4834,Ay ay Arektu kache ay cheka ta diye dibo.,H,1,0,0,0
+4858,4858,Bhabsilam single thakbo kintu tomake dekhe mone hocche na eta shombhob.,H,1,0,0,0
+4867,4867,Ammur mood er upor bashar shobar mood depend kore.,H,1,0,0,0
+4874,4874,"Real scam is when you thought it's ""bhendi"" but it's ""kacha morich"".",H,1,0,0,0
+4880,4880,"Boys after being exposed: whatever believe what you want. You never know the truth. amar kacher manush gulay jane ami kemon, ki ki suffer korsi ami. Amar etto time nai etto kichu explain korar tai ar kichu bollam na.",NONE,0,0,0,0
+4890,4890,Nijer chobi dekhe nijei preme pore jai.,H,1,0,0,0
+4894,4894,"Etto mittha kotha je bolo shob ei bujhi ami, tao bhallage tomare.",NONE,0,0,0,0
+4895,4895,Bhabsilam Eid er din bashay boshe boshe tomar pic dekhbo ar tomar shathe kotha bole din katabo tumi to er agei amake chere chole geso.,NONE,0,0,0,0
+4904,4904,Me at 3:20- *ghumabo? naki kichu kheye arektu newsfeed scroll korbo?*,H,1,0,0,0
+4908,4908,Bathroom er telapoka gular jonne shanti te hagteo pari na jottoshob.,H,1,0,0,0
+4912,4912,Ami mone mone sorry bole disi eta tumi na bujhle amar ki dosh.,H,1,0,0,0
+4914,4914,"Whenever i ask my bestfriend ""dekh to chele ta kemon"" and everytime she replied:",H,1,0,0,0
+4917,4917,Shobai shudhu amake bhul bujhe.,NONE,0,0,0,0
+4920,4920,Kolijar manush gula kolija chira niya gelo.,NONE,0,0,0,0
+4921,4921,Tumi offline hoile bhallagena abar online ashleo patta dite iccha kore na.,H,1,0,0,0
+4940,4940,*After 20 minutes of chatting* Boy: tomar WhatsApp number ta dewa jabe? Ami ashole Facebook e temon thaki na. Girl:,H,1,0,0,0
+4942,4942,Ami etoy single je rilasion spelling o pari na.,H,1,0,0,0
+4950,4950,Tumi ahamori kisu na tao ken je eto bhalo lage tomare.,NONE,0,0,0,0
+4953,4953,Onekdin hoise amar breakup treakup hocche na Oh ami to single.,H,1,0,0,0
+4955,4955,Bujhtesi na ki shomosha amar din din etto cute hoye jacchi keno.,H,1,0,0,0
+4962,4962,Cute aso kintu majhe majhe lame kotha barta bolo.,H,1,0,0,0
+4971,4971,Shobai pagol hoye gese.,H,1,0,0,0
+4972,4972,Asho ektu dushtumi kori.,V,0,0,0,1
+4975,4975,Oishob alga polar jonne Khacchor er moto kanna kati bondho kor.,O,0,0,1,0
+4986,4986,"Bhallagena mane bhallagena. Keno bhalo lage na, ki hoise egula abar jigas ken?",NONE,0,0,0,0
+4988,4988,"Ami ""Bye"" bolsi mane tui amar kole uthe boshe thakbi shala.",NONE,0,0,0,0
+4992,4992,Amar to tore bhaloi lage na eta bujhos na ken tui?,NONE,0,0,0,0
+4999,4999,"Emneo kotha bolte iccha kore na karor shathe abar kottogula bainchod aisha bolo ""areh kothaa bolo share koro tahole mon bhalo thakbe."" Na kuttarbacha na amar bhalo laga toke dekhte hobe na. Ami shob share korbo erpor tui egula onner kane jaiya pech lagabi!",NONE,0,0,0,0
+5001,5001,Prottekbar heartbreak howar por mone hoy ekta haturi niya nijer matha nijei fatai.,S,0,1,0,0
+5008,5008,Keno je etodin porte boshi nai ekhon onekgula pora joma hoye gese!,S,0,1,0,0
+5010,5010,Rickshawala : hfaklogsvnllm Me : Hae mama thik bolsen.,H,1,0,0,0
+5016,5016,"for the first time in my life I'm supporting Bangladesh Police, pidaya Fadi lan ogo",NONE,0,0,0,0
+5017,5017,Nazar is real guys cause pehli nazar mein kaisa jadu kar diya.,NONE,0,0,0,0
+5021,5021,manush er relatives taka diye jay ar amar gula career advice,NONE,0,0,0,0
+5044,5044,60k theke 70k er moddhe phone kinbo sobai suggest koro eto taka koi pabo?,H,1,0,0,0
+5067,5067,Ajke abbu amake bolse pora shuna kora lagbe na bashay boshe ja mon chay tai jeno kori. Ekhon ami boi khatar gushti kilabo.,H,1,0,0,0
+5071,5071,Khub to morte chas ekhon abar corona virus niye eto bhoy paitesos ken?,S,0,1,0,0
+5090,5090,"Brown parents math: Society khusi thakle hbe,bacchader tow emotional blackmail kore manai nibo",H,1,0,0,0
+5096,5096,Kire sobai ki Dr.Yunus sir k Aladiner Chirag mone kortese naki!!!,S,0,1,0,0
+5104,5104,"Corona niye eto tension koris na, toder jeno HIV na hoy she dikei kheyal rakh.",H,1,0,0,0
+5110,5110,Nasta ki dekhos nai jibone rakkhhossh,H+O,1,0,1,0
+5114,5114,"Potaia felay rakh ek konay, prem korte jais na.",S,0,1,0,0
+5128,5128,"Duniya is full of beautiful lies, dekhen money plant a money thake na.",H+S,1,1,0,0
+5150,5150,Jekhanei rakhi hope Shekhanei khai kop.,NONE,0,0,0,0
+5154,5154,Topper der vaggo bhalo je exm e meme asena. jodi asto tahole khela dekhay ditam!,S,0,1,0,0
+5157,5157,Flirting Skill kharap amon akta meyer I'd den,H,1,0,0,0
+5158,5158,“ami keno first text korbo” bolte bolte life theke aste aste sobai haray gelo,S,0,1,0,0
+5164,5164,Jehetu shobai IELTS korteche . Reading part e Auto band score 7 chai,NONE,0,0,0,0
+5179,5179,"Ami single hoye joto raat jagi, oneke 4-5ta prem koreo eto raat jage na.",NONE,0,0,0,0
+5208,5208,"gf er raag bhangaite gele ego te lage, ar onno meyere text korte ego te lagena.",NONE,0,0,0,0
+5241,5241,Ekbar amar ammu amar room er floor e akta shada tablet paisilo (I’m still not sure what it was or how it got there) and she was like “tumi yaba koro naki?” Ofcourse I said “na ammu yaba toh laal color”,NONE,0,0,0,0
+5248,5248,Shahabuddin chuppu obosta amar moton kokhon ki boli kisu mone thake na,H,1,0,0,0
+5254,5254,"Reels save kore rakhsi, raag bhangle ek sathe shob dibo.",NONE,0,0,0,0
+5263,5263,We all have that one friend je kotha bolar shurutey hasha shuru kore.,H,1,0,0,0
+5272,5272,Amake hurt korben na please Ami ekhono johnson's baby lotion use kori.,S,0,1,0,0
+5289,5289,"Only ""Pora shuna na kore abar pora shuna niye tension kora manush"" can share this.",NONE,0,0,0,0
+5290,5290,Boi ta khule boi er dike ghontar por ghonta haaa kore takai thaki.,NONE,0,0,0,0
+5315,5315,Amar call amare korte de ettto lecture dis na matha gorom amar.,NONE,0,0,0,0
+5336,5336,Why do you guys even eat murgir shami kabab? nijer shami ke khao ga please. Murgir shami ke na,H,1,0,0,0
+5339,5339,Ami cheater hoyeo move on korte partesi na ar se loyal hoye move on kore fello !,H,1,0,0,0
+5360,5360,"Main Post er comment box e amr comment ta ektu like ba comment er reply diye highlight e anen, plz help needed",NONE,0,0,0,0
+5377,5377,Shishirer moto sundr bou jutai tow luck mama cheat kore kmne!?,NONE,0,0,0,0
+5398,5398,Ekta screenshot chure marbo shob ashol rup shamne ashbe bainchod.,O,0,0,1,0
+5401,5401,Tore dekhlei matha betha dhore.,S,0,1,0,0
+5403,5403,Shiter moddhe dine gosol korar chaite rate bhat khawata aro beshi challenging.,NONE,0,0,0,0
+5405,5405,I Need Some “ Kire Mon Kharap? Chol baire theke Ghure Ashi” People In My Life.,NONE,0,0,0,0
+5407,5407,"Pochonder beda shirt porleo sundor, t-shirt porleo sundor, kichu na porle toh heaven.",H,1,0,0,0
+5417,5417,"Netflix presents, Laylatul Gujob, Season 01. Episode 18 (aug ): Detective MPox. Directed by : Christopher Nolan",H,1,0,0,0
+5426,5426,Ajke last ekta bar chill kore ni khodar kosom kalke thekei porte Boshbo.,NONE,0,0,0,0
+5434,5434,Khabarer shate ki keo ghumer oshud mishay dise naki? Etto ghum ashe ken Baaal.,NONE,0,0,0,0
+5439,5439,"my newsfeed is full of ramadan greetings, ahlan wa sahlan yaa ramadhan!",S,0,1,0,0
+5446,5446,soulmate khujte khujte jutar soul uthe jacche taw soulmate pacchi naa,H,1,0,0,0
+5471,5471,"Nah re, onek putki mara khaisi, ar shombhob na!",V,0,0,0,1
+5475,5475,Jibone shob theke eka tokhoni mone hoy jokhon basha theke headphone chara ber hoi.,H,1,0,0,0
+5499,5499,All eyes on Kolkata!! #justiceformoumita,NONE,0,0,0,0
+5501,5501,Seikh hasina chole jawar por theke bd te night cinema hoy potidin.,H,1,0,0,0
+5503,5503,Khoka ar Boro holo koi Pritom Hasan,NONE,0,0,0,0
+5514,5514,Ammur sthe boshe abbu ke roast korar beparta.<<<<,H,1,0,0,0
+5531,5531,Don't let anyone ruin ur day' Overthink kre nijer day nijei ruin kre bose thaka Ami,H,1,0,0,0
+5532,5532,"Khub care korchilo vablam valobase mone hoy ,pore janlam se sobai kei care kore :((",H,1,0,0,0
+5539,5539,Arrange marraige korar eccha nei but jodi tmr sathe arrange hoy tahole alada bepar,NONE,0,0,0,0
+5558,5558,"Actually ami single nah , ami mone mone tomake onek bar biye kore felchi.",S,0,1,0,0
+5572,5572,"Ekta jinish dekhen. Bangladesh er polapain amra porashuna baade jai diben taai korbe. Anything and everything. Andolon theke shuru kore rasta porishkar, traffic hoye darano. Everything! But porashuna naa.. ekhon jodi dhoren university mail dey MIDTERM newar. Direct polapain bolbe OI MAMA MID NA PLEASE!",NONE,0,0,0,0
+5577,5577,Jara Sir er income er hiseb kore tader marks kokhono bhalo Asenaaa..),H,1,0,0,0
+5583,5583,"I'm ""Thakleo chole na thakleo chole"" kind of person in everyone's life.",NONE,0,0,0,0
+5589,5589,Brazil be like: ke ke goal dibi line e dara,S,0,1,0,0
+5594,5594,Otirikto raage totlanor bepar ta khubi embarrassing.,H,1,0,0,0
+5599,5599,"- Prithibite 70% pani thakteo, Dube jaitesi tomar preme!",H+S,1,1,0,0
+5630,5630,"Etoh computer language sekhar theke, Computer kei english sekhale toh hoye jai",H+S,1,1,0,0
+5637,5637,"All eyes on Rajshahi University Aug 1, 2024 Check this commentbox",NONE,0,0,0,0
+5644,5644,Mom: Ki dekhe hashli? Tor girlfriend ache? Me: Areh maa meme dekhsi Mom: Mim ke?,H,1,0,0,0
+5648,5648,Amra friend ra eksathe hoile jemne chillai chillai hasi haste haste ekjon arekjon er upor poira jai tokhon monei thakena amader asepase arow manush ache then dekhi ora amader notice korteche maybe bolteche etto pagol koi theke asche,NONE,0,0,0,0
+5669,5669,"If anyone wants to know what Rafsan Sabab blabbered for about 15 minutes, here's the zist ~ Lad wanted divorce literally after 1.5 years of his marriage and as he was already out of the marriage in his mind, he gotten into relationship with multiple people (including Xefer) because lad simply thought, bou bhalo lagena, shongshar bhalona, aab main panchi banke urta phiru mast magan mein, aab mein azaad hu duniya ke chaman mein. Anika Mehjaben",H,1,0,0,0
+5672,5672,Senior meyra junior cheleder kono dino patta deina bhai.,H,1,0,0,0
+5683,5683,"Never cheat a Barishailla ""Heiya lons er thei halaiya debeyane"" !",NONE,0,0,0,0
+5692,5692,Edik ami tinder namaichilam,S,0,1,0,0
+5708,5708,Toder shobar parents Jodi strict hoy tahole baire je polapan gula ghurtese ora kara?,S,0,1,0,0
+5714,5714,"Importance holo jadur moto, Ami dilei manush gayeb hoye jay.",H,1,0,0,0
+5738,5738,Jibone kichu hok na hok tomar Maa amer Sasuri hok..:'),NONE,0,0,0,0
+5742,5742,Preme porar boyoshe bestfriend er breakup paragraph portesi.,NONE,0,0,0,0
+5743,5743,Ami je saradin etto tomar kotha bhabi ..!! Tomar kache ki notification jay nah.?,NONE,0,0,0,0
+5753,5753,Ja hobe dekha jabe attitude tar jonno Ami khali dekhei jacchi korte ar kichu parchina,H,1,0,0,0
+5764,5764,Confused between “meme dekhe hashbo naki nijer jibon dekhe “,S,0,1,0,0
+5774,5774,Amr ammu akhno amk khaway dei. I'm the most Luckiest Person!♡,NONE,0,0,0,0
+5783,5783,Ektu forsha hocchilam ar gorom pore gelo,S,0,1,0,0
+5784,5784,Ekta girlfriend o nai j Eid e Agha Noor theke KURTA gift korbo,H+S,1,1,0,0
+5805,5805,Mainser eto eto rup dekhsi... horror movie dekhleo ekhn r voi lagena,H,1,0,0,0
+5815,5815,Dom thakle preem koro! Nahole 14 February niye pek pek kora bondho koro!,NONE,0,0,0,0
+5827,5827,Peaceful girlfriend koi pawa jay bhai ?,S,0,1,0,0
+5832,5832,Tomar kotha bhable jodi Notification jaito taile tumi Ghumaite parta nah!,S,0,1,0,0
+5839,5839,"Ambani's be like: Silver,Gold, Diamond sobkichur toiri dress pora ses r ki baki?",S,0,1,0,0
+5860,5860,Asole sobai sob kichu paye na tai tumi amaye pelena !!,H,1,0,0,0
+5879,5879,Bangladeshi boys and their obsession with Shada Chamra >>>,NONE,0,0,0,0
+5907,5907,Main tera. Tu Uska. Woh kisi aur ka.,NONE,0,0,0,0
+5911,5911,Amar baap amare gorur noli diye bari marse,H,1,0,0,0
+5921,5921,My mother in every 5mints: Ghushtir rokto na shorire,H,1,0,0,0
+5929,5929,"Shara bochor khela dekhlam tomar ekhon shuni Cup nibe naki Argentina, Brazil.",S,0,1,0,0
+5951,5951,"Kanna koriye bole ""please stop crying tomar kanna dekhte amar bholo lage na.""",H+S,1,1,0,0
+5969,5969,"Bengali parents logic : If you like travelling, Nijer jamai er sathe jabi",H,1,0,0,0
+5979,5979,ami manush ta bhaloi just ghar ta ektu tera,NONE,0,0,0,0
+5982,5982,"Kome jacche thanda, lagche bhloi gorom Amake tmi kosto dionah, amr mon ta onek norom",H,1,0,0,0
+5988,5988,"That hopeless friend, jare motivate koreo kono kaj hoy na!",NONE,0,0,0,0
+5994,5994,Sobar ex er kahini shunte shunte nijer ex er kahini bhule gesi.,S,0,1,0,0
+5999,5999,Science er meyera unromantic hoi..!!,H,1,0,0,0
+6002,6002,I'm mature now! Also me : Raat 9 tai Dp upload dile react beshi pabo.,H,1,0,0,0
+6006,6006,Tomar Bestfriend thik toto din e tomar Bestfriend joto din na o Prem a porche...:'),S,0,1,0,0
+6015,6015,"Biyete ja dinner set,bed cover etc gift pabo nxt din segulor dokan debo Business!!",H,1,0,0,0
+6033,6033,Bahire gorom naki Amar matha gorom bujhtesi nah.,H+S,1,1,0,0
+6037,6037,"Tomar toh jonmo goto obbhas valo manush der ignore kora, jemon ekhon amare korcho.",S,0,1,0,0
+6038,6038,Nijei jhogra koros abar nijei raag dekhas jharu chinos? jharu diya bai/rabo.,H,1,0,0,0
+6052,6052,Amar 2 din bhalo gele aage thekei mental preparation nei ekta bash khawar jonno.,S,0,1,0,0
+6053,6053,"Ammu 280tk dia bollo, ""1 packet beson nia ay"" Wait, Read it Again!",H,1,0,0,0
+6058,6058,"Conversation i continue korte pare na, Sey naki abar Prem korar shopno dekhe.....",NONE,0,0,0,0
+6073,6073,"WiFi niye eto vaab dekhanor kichu nai,,current gelei to futani chute jay!",S,0,1,0,0
+6088,6088,Kichu manush ache jader dekhlei matha automatic gorom hoye jai.,H,1,0,0,0
+6089,6089,Ar aktu Ghumate parle bhalo lagto ar ghumea kono din na uthle aro bhalo lagto...:-),S,0,1,0,0
+6116,6116,Single bole newsfeed ghuri tmi thakle tmr moner vitor ghurtam.,H,1,0,0,0
+6126,6126,Tmi amr somuddro ami tomar dheu Tmi amr nh hole tmy patta debe nah keu,H,1,0,0,0
+6133,6133,Temporary & Toxic manusjoner proti amar aladai attraction ashee bhaii!,S,0,1,0,0
+6134,6134,Kichujon abar ex ke best friend banai Bawaaaa gooo!,S,0,1,0,0
+6152,6152,"When i say ""Bashai theke jaite dibe na"" ""Amio jete chai na"" is silent...",NONE,0,0,0,0
+6163,6163,Jonmo sal jodi 2ta na thake taile tumi Bangladeshi na!,H+S,1,1,0,0
+6172,6172,ammu always said:life is like a box of ice cream..khule dekhba bhitore moshla bata:-),H,1,0,0,0
+6179,6179,If u cna raed thsi psot tsrut me yuo haev crshu on me.,H,1,0,0,0
+6180,6180,Suddenly mone pore jai abar Sob Suddenly bhule jai.,H,1,0,0,0
+6184,6184,"Messengere songsar nei amar tomar moto tai eto memes share kori :"")",NONE,0,0,0,0
+6185,6185,"Kokhono Nijeke pagol mone hoi, Abar kokhono Nijeke chara bakider pagol mone hoi..",H,1,0,0,0
+6188,6188,Ammu : kire tui portesos na ken..? Me : ami ter pai nai j tumi ashtechila.,H+S,1,1,0,0
+6195,6195,"Call me ""kathal"" cause kew amake pochondo kore nah.",S,0,1,0,0
+6198,6198,Sundorr sundorr ringtone diyee phone silent koree rakha ami .,S,0,1,0,0
+6206,6206,"Mone holo sandel er niche ki jeno ekta laigga ache, ultay dekhi tumar attitude. :V",H,1,0,0,0
+6224,6224,"12.00 : Sorry for late reply 12.01 : It's ok, ar jeno na hoy 07.13 : Accha",S,0,1,0,0
+6228,6228,Always remember that you are absolutely unique.Nijeke karo sathe tulona korte jeo na!,NONE,0,0,0,0
+6245,6245,class er topper gula always text er banan vhul koree.,H,1,0,0,0
+6248,6248,". Wtf is ""Tomar Moto ekjon chai"".. Amake chaite ki somossa tmr",H,1,0,0,0
+6249,6249,Eto sundor vabe guchhiye mittha kotha bolte kothai sikhechile?,NONE,0,0,0,0
+6270,6270,No I don’t feel jealous amr just juta diya bairaite iccha kore:),S,0,1,0,0
+6277,6277,That one friend ' jar phone e kokhonoi balance thake na ',H+S,1,1,0,0
+6278,6278,Meyera flirt o tader moner pochonder manush er sthei kore,H+S,1,1,0,0
+6281,6281,Amr preme porle bristi hobe. Calm down.,NONE,0,0,0,0
+6325,6325,Karor sathe kotha blte iccha kore nh but tmr sathe kotha sesh krte iccha kore nh.,H+S,1,1,0,0
+6336,6336,Rager mathay manush vulval na moner kotha guloi bole !,H,1,0,0,0
+6338,6338,"Things Bangladeshis say instead of directly saying 'no' 1) Hmm Dekhi 2) Ami tomake janabo 3) Jodi bhagge thake, obosshoi 4) Family Jodi allow kore 5) Amar shorir ta ektu kharap, bujcho? 6) Hae. (Says no at the last minute) 7) Mone hoy. Ekhono sure na (They're sure) Arektu aage bollei partam 9) Jodi bhule na jai (They'll 'forget')",S,0,1,0,0
+6339,6339,ajkei shujog. 'Eid Mubarak' diye conversation start koren,H,1,0,0,0
+6353,6353,"Me planning to go Bandarban, Kuakata and Jahnnam er chou rasta with my rich friends having 150 tk in my wallet.",H,1,0,0,0
+6359,6359,show me a girl 'jaar kono boyfriend nai' (Erokom kono din e somvob noi!),S,0,1,0,0
+6366,6366,Bangali Mom's telling Dad : tomar meye ke biye dite hobe beshi boro hoye gele valo chele pabo na!,NONE,0,0,0,0
+6392,6392,Matha betha kortechilo Ammu k bolar shahosh paini Karon uttor ta ami jani,H,1,0,0,0
+6398,6398,"Joto baje haircut, toto khushi baba maa",H,1,0,0,0
+6409,6409,Majhe majhe chinta kori chotobelai ami ki asolei brilliant student chilam naki bakira amar cheyeo kharap student chilo!,S,0,1,0,0
+6420,6420,"""Amake bolba keno, Ami tomar ke?"" This line has a separate emotional blackmail Power",NONE,0,0,0,0
+6424,6424,Ei gorom e shojjo korte parona biyer por amar shathe kivabe thakba,NONE,0,0,0,0
+6427,6427,Jara bolteso Eid er din ghumay kataba tader Story te jeno ghurte jabar chobi na dekhi,H,1,0,0,0
+6459,6459,Me trying to Flirt -Tomar shorir kemon ache? -Tomar barite shobai kemon achen..!?,H+S,1,1,0,0
+6471,6471,Eid er din kauk pic dewar na thakle amake dio ami shundor compliment dite jani..!,H,1,0,0,0
+6484,6484,"From ""Mama 5 mark charchi"" to ""Mama 5 er ans koira aschi, damnn"" we all grew up :3",H,1,0,0,0
+6505,6505,"Bujhlam sob problem er solution ""baad daw"" but exam ke kibhabe baad debo?",H,1,0,0,0
+6514,6514,Tumi amar ami tomar,S,0,1,0,0
+6517,6517,someone : tumi eto hot keno? me: Ammu chotobelay gaye tel diye rod e bosay rakto,H,1,0,0,0
+6529,6529,middle class mane bojho ?? Sokale bhaat dupur e bhaat rate bhaat ... Bhaati bhaat :'),H,1,0,0,0
+6541,6541,Bujhlam na Iftaar khailam Naki Ghumer Osud.,H+S,1,1,0,0
+6545,6545,Kazi Nazrul Islam ki biya poraiten.,H,1,0,0,0
+6552,6552,❝Rahul cut❞ namey ekta haircut chilo jeta amra choto belay pola-maiya shobai disi,H,1,0,0,0
+6553,6553,Porar tension e pora hocche na:),H,1,0,0,0
+6562,6562,"Fashion sense prochur ase, kintu seta kaje laganor moto paisa nei...",H+S,1,1,0,0
+6571,6571,"* Babe, amar dinner ready koro toh * - Are are chular upore uthteso keno !",H,1,0,0,0
+6573,6573,Kichu cheler friendlist e dhukle mone hoy girls school a dhuke porsi bhai ajob,H,1,0,0,0
+6574,6574,Iftar korte nah kortei chipay chapay dekhi lal jonaki poka joltasee.,NONE,0,0,0,0
+6578,6578,Bhaiya apnar kache ki BTS er mask pawa jaay,H,1,0,0,0
+6581,6581,"Tomake online e dekhlei sondheho hoi, ki jani ekhon abar kar sorbonash kortaso.",H,1,0,0,0
+6586,6586,Tmr mto mittah amr baper bhaira jomi marar shmy o bole nai,H,1,0,0,0
+6596,6596,Tumi sotti sobar theke alada Jedin Tomar mukh dekhi puro din kharap jai.,H,1,0,0,0
+6616,6616,Flirt korte ashchilo ekhon ami vaat na khaile sheyo khay nah.,H+S,1,1,0,0
+6622,6622,"Na karo call ashe, na karo text. Bujhtasi na phone use kortesi naki calculator",H,1,0,0,0
+6624,6624,"Baba Maa'r extra phn nmbr gulo Baba1, Baba2, Maa2 bole save kora ami :'/",H,1,0,0,0
+6630,6630,"Peace cheyechilam ektu, kete piece piece hoye jabo bhabini.",H,1,0,0,0
+6635,6635,"Once upon a time, Raat 11/12 tar modhe ghumiye portam :'3",H,1,0,0,0
+6643,6643,"Jara Jibone Kono Love Proposal Paini "" Us "" Likhun .",H,1,0,0,0
+6651,6651,** Bengali Siblings while fighting ** - “TOR BAPER TA KHAI?”,H,1,0,0,0
+6655,6655,"Chik chik kore bali , kothaw nei kada jotoi tumi valo shajo, tumi haram jada",H,1,0,0,0
+6677,6677,Emni Sobsomoy matha gorom thake tar upor abar Summer season chole asche,H,1,0,0,0
+6678,6678,Botol e pani bhorar cheye boring kaaj duniya te nai.,H,1,0,0,0
+6701,6701,Keno tumi hotey chaw Bangi Jekhane tomake Teharir moto Valobashi,H,1,0,0,0
+6707,6707,Onner rag bhangaite giye nijei rag kre boshe thaki :3,H,1,0,0,0
+6723,6723,Kotha dilam ajke Bangladesh winner hole 12 hours er modde biye korbo:),H,1,0,0,0
+6736,6736,Bamun ki aar haat barhalei chaad er dekha paay :'),H,1,0,0,0
+6739,6739,"Gorom ar Mosha jebhabe barse, I wish amar proti tomar bhalobasha o jodi ebhabe barto.",H+S,1,1,0,0
+6741,6741,Coke Studio Bangla ekta gaan upload kore account er password bhule gese,H+S,1,1,0,0
+6743,6743,Problem e porle kauke pawya jai Na Kintu status e grammar e bhul hoilei hoise ekbar,H,1,0,0,0
+6752,6752,phone er ajaira ss and pictures delete korar jonno ekjon lagbe. agrohi ra inbox,H,1,0,0,0
+6757,6757,another ramadan without hearing 'hat charo ekhn chop pure zaitese',H,1,0,0,0
+6759,6759,"""Kireyy barite ki kichu khas na"" Should be considered as body shaming",NONE,0,0,0,0
+6774,6774,Shuru hoise ammur randomly fan bondho kore gayeb hoye jawa!,H,1,0,0,0
+6775,6775,Ami heshe uray dei karon tomader to aar thappor me*e uray dite parina.,H,1,0,0,0
+6798,6798,"Teka dei University re, Pora bujhay YouTube",H,1,0,0,0
+6800,6800,"Gonna tell my kids, 'Tomar ma aar ami jokhon room e thakbo tokhon room e ashba na.'",H,1,0,0,0
+6819,6819,Rastai sundori meye dekhle meyerao takai hudai cheleder dosh die luv nai..!,H,1,0,0,0
+6825,6825,Kire khub urchs ? Dana ache tai urchi... tor nei tui hamaguri de hingsha korishna !,NONE,0,0,0,0
+6837,6837,I'm that friend “Jake friend's parents ra khub innocent vabe ar khub believe kore”,H,1,0,0,0
+6868,6868,"Alhamdulillah, Shokh korar boyose dorjjo dhorte shikhe gechi!<3",H,1,0,0,0
+6874,6874,Jara kothaye kothaye rege jaye tader ragate ekta aladai sukh ache,H,1,0,0,0
+6906,6906,"Nibba/nibbi guloi thik ache, amrai besi maturity dekhate giye bash khacchi",H,1,0,0,0
+6909,6909,"Bolsilo,""Bhalo thako"" ekhon bhalo thakte gelei knock diye mood kharap kore dey",NONE,0,0,0,0
+6913,6913,Bujhtechi lekhapora kora dorkar tobou Portechi na chill e kore jacchi,H,1,0,0,0
+6936,6936,"Mon kharap is Ok. But dp remove, Uriiii baba dipriiiiissssooonnn.",H,1,0,0,0
+6945,6945,What is the most difficult thing? -Bashay guest ashle tader shamne dekha korte jaowa,H,1,0,0,0
+6950,6950,Char dike eto sundor manuser moddhe nijeke kemon dustbin mone hochhe.,H,1,0,0,0
+6966,6966,"pagol banaiya diya jiggesh kore ""tumi ki pagol""",S,0,1,0,0
+6985,6985,"Ekta raagi meyer id deo, Amar Bhalobasha diye take thanda kore dibo.",H,1,0,0,0
+6987,6987,Gets kidnapped* Me: Niye cholen onekdin tour deinai.,H,1,0,0,0
+6997,6997,I want someone je amar hmm er o reply debe,H,1,0,0,0
+7002,7002,"Tomaye saree pore dekhe khub bhalo laglo, saree chara dekhleo bhaloi lagto...",V,0,0,0,1
+7003,7003,Toder shobar parents Jodi strict hoy tahole baire je polapan gula ghurtese ora kara,H,1,0,0,0
+7007,7007,"Ekta bhul ami 2nd bar korina, kompokkhe 9/10 bar kori.",H,1,0,0,0
+7025,7025,Amar sathe dekha hole bujte parba world e ekhono etto valo manush exist kore,H,1,0,0,0
+7028,7028,"Brown girls trynna flirt with you : "" aur girlfriend kaisi hai apki? """,H,1,0,0,0
+7031,7031,"ammur sathe golpo kori -- oh,amake niye",NONE,0,0,0,0
+7036,7036,S0byk blur kore tmk focus krlam ar tmi amkei crop kore diso -!-,H,1,0,0,0
+7040,7040,Nah dost amar kache kono extra pen nai shudhu extra pain ase lagle bolis.,H,1,0,0,0
+7048,7048,After opening books* Eyes : Ja dekhi notun lage,H,1,0,0,0
+7052,7052,"Ki Ek Somossa Bhai , Pa Gorom Hy Nah Ar Matha Thanda Hy Nah !",H,1,0,0,0
+7054,7054,Insult er chorom porjai gele dum kore thappor mere di.,H,1,0,0,0
+7086,7086,Tumi ki ektu chup kore boste paro na? Amar mathar moddhe always ghuro ken!,H,1,0,0,0
+7093,7093,Tomar basai dakati korbo kicchu nibo na sudhu tomake tuilla niye asbo,H+V,1,0,0,1
+7118,7118,Bujhlam nah Mon theke ki ber kore dila? eto thanda lage ken.,H,1,0,0,0
+7119,7119,Aktu biye korte parle bhallagto.,H,1,0,0,0
+7120,7120,Jara 7th February to 14th February porjonto ghore bose kataben tara us likhun,H,1,0,0,0
+7150,7150,"Mosha marte marte hijra hoye jaitesi, khali taali mari",O,0,0,1,0
+7151,7151,i asked her bikale kar sathe chila? she replied 'amr past niye kono question korbana',H,1,0,0,0
+7153,7153,"Amake valobasho? lojjay bolte parcho na? voy paccho? kono somossa nai, tomar jonnei ajker ai post, tumi shudhu love react diye jaw taholei ami bujhe jabo je tumi amake valobasho.",H,1,0,0,0
+7191,7191,Lojjai bolte partesina ❝Pangas mach amr khub favourite❞,H,1,0,0,0
+7198,7198,"Goodnight bolar por o kotha bolte thaka, I love this shit",H,1,0,0,0
+7201,7201,"Chotobelay PORAR shokh chilo, chotobela sesh, Shokh sesh.",H,1,0,0,0
+7219,7219,Ami heshe uray dei karon tomader to aar thappor mere uray dite parina.,H,1,0,0,0
+7242,7242,Jara amr moto dekhte kharap tara us likhun:),NONE,0,0,0,0
+7244,7244,Couple der theke single gulo ektu besii lafalafi kore 7th to 14th Feb niye,H,1,0,0,0
+7249,7249,"Ami boley friendly na, sodanir fua",H,1,0,0,0
+7263,7263,Corona virus o second wave chole elo Tumi kobe asbe ?,H,1,0,0,0
+7270,7270,New year niye kono Betha na thaka amar matha,H,1,0,0,0
+7279,7279,Taar matha betha kortese- eta bujhate jeye amar matha betha banay felse,H,1,0,0,0
+7285,7285,Onner dukkher kahini sunte sunte nijer life e ki dukkho chilo seta e bhule gechi...,H,1,0,0,0
+7300,7300,"Sofar kona, table er kona,chair er kona in a relationship with my payer angul.",H,1,0,0,0
+7301,7301,Manush Mobile chara bathroom e jay kemne? Amarto mobile chara gele osohay mone hoy.,H,1,0,0,0
+7307,7307,"Pagol bolsi ar blush korse, jei mentally unstable bolsi sathe sathe rag korse",H,1,0,0,0
+7327,7327,Newton er mathay Apple na poira thada pora uchit chilo,H,1,0,0,0
+7330,7330,Ato cute face keno tomar? Nah rag korte pari na jhogra,NONE,0,0,0,0
+7332,7332,chehara kharap hoileo aynay nijeke dekhte valoi lage,H,1,0,0,0
+7334,7334,"Nijer kheyal rekho, tomar kichu hoye gele amar ekta react kome jabe.",H,1,0,0,0
+7357,7357,Maturity ek jaigay Ar dukaner CCTV te nijere khuja onno jaigay,H,1,0,0,0
+7360,7360,"Page a na, dinner a invite korben, ashbo InshaAllah",H,1,0,0,0
+7363,7363,"Nijer Facebook memories dekhle mone hoy, nijekei nije block mere dei",H,1,0,0,0
+7372,7372,"I got a good heart, Kintu shalar ei mukh tar je ki kori",H,1,0,0,0
+7393,7393,How do people get 3/4 cakes on birthday? I get one tao nije giye kena lage,H,1,0,0,0
+7398,7398,Marry a short girl Jhamela joto choto toto valo!,NONE,0,0,0,0
+7401,7401,Tomar male bestfriend jodi tomaye line na mare bujhbe cheleta Gay,H,1,0,0,0
+7404,7404,Hurt hote hote Heart Attack kortesi tobuo bolte partesina. Karon ami Introvert.,H,1,0,0,0
+7405,7405,chotobelay aim in life high chilo. ekhon ami nijei high.,H,1,0,0,0
+7413,7413,Ki re tora Thanks bolbi na amader? Sara bochor toh ulta palta post kore hashalam!,H,1,0,0,0
+7414,7414,"Amar biyete sobai cash taka gift diba, kew thala-bason niye ayso na",H,1,0,0,0
+7419,7419,Fb te bio te single Edike chhobi diche aiburubhat khache E kymon bichar !,NONE,0,0,0,0
+7433,7433,Facebook theke like tule newa hok !,H,1,0,0,0
+7435,7435,"jara dukkho prokash korto , amr A o ashbe na tara A+ paiya gelo",NONE,0,0,0,0
+7449,7449,Amar 2 din bhalo gele agey thekei mental preparation nei ekta bash khawar jonno.,H,1,0,0,0
+7451,7451,Memes banaite banaite kokhon je nijer life tarei ekta meme baniye fellam. Bujhlam na,H,1,0,0,0
+7458,7458,"Tomake vallagto but typing style dekhe mon uthe geche :""(",H,1,0,0,0
+7462,7462,"Mention that person "" jar sathe kotha bolle tmr mon bhalo hoye jay""",NONE,0,0,0,0
+7472,7472,Trust na koreo easily sob moner kotha hur hur kore bole dei.,H,1,0,0,0
+7475,7475,Jadu tona korso naki! Mathye khali tumi ar tumi...,H,1,0,0,0
+7480,7480,"Newsfeed scroll korteo bore lage majhe majhe,kintu tao porte boshbo nah",H,1,0,0,0
+7487,7487,Thanda lagche? Amake joraye na dhorle thanda toh lagbey,V,0,0,0,1
+7493,7493,Next time hint na bujhle pathor marbo,H,1,0,0,0
+7496,7496,bhai khub valo achi bortoman karo proti kono feelings kaj kore na! !,H,1,0,0,0
+7508,7508,"Prem korina mane ei na j, amader prem niya kotha bolar kono odhikar nai.",H,1,0,0,0
+7523,7523,Tomra eto Flirt koro kemne bhai ami to KI KORO jigesh korar por ar kichu khujei paina,H,1,0,0,0
+7527,7527,Others country: my pocket is empty My country: bissash kor bish khawaro taka nai,H,1,0,0,0
+7533,7533,Ar ektu chini dilei tomake sweet lagbe.,H+S,1,1,0,0
+7538,7538,Chup ekdom chup! Ektu attention r valobasha deh vallagtese na,H,1,0,0,0
+7540,7540,Kichu manush er ID visit korle mone hoy eder life e meme chara ar kichu nai I’m kichu manush !,H+S,1,1,0,0
+7544,7544,Block korso bhalo kotha kintu tarpore fake id diye stalk korar mane ki,NONE,0,0,0,0
+7554,7554,"Amra chat korte chilam, bhaloi to chilam! Call korte chao kenooo? ;-;",NONE,0,0,0,0
+7557,7557,ordekh jibon mon kharap korei par kore dilam.,H+S,1,1,0,0
+7562,7562,"""Valo Manush"" er Je ei duniyai Dam Nai seita Ami Amake Dekhlei Bujhi :)",H,1,0,0,0
+7569,7569,Amar Shudu Tomar ovab,H,1,0,0,0
+7589,7589,Perfect boyfriend to shey je tomar sathe tomar ex ke miss korbe,H+S,1,1,0,0
+7598,7598,"Kichu meye Bf ke Bolod banay, ar kichu meye Bolod ke Bf banay",H,1,0,0,0
+7599,7599,"Some people in girls' inbox be like. ""BF ER SATHE SUDHU BUSY?"" But ironically meyeta to boyfriend patta diche na bole chitkar kore more...",H,1,0,0,0
+7608,7608,jawline ar collarbone dekhaite jaya ekdin dom atkay moira jabi,H,1,0,0,0
+7614,7614,"After a breakup* Others : bewafa beawafa, bewafa nikhle hain tu Bengalis : chole gecho tatee ki, notun ekta peyechi",H+S,1,1,0,0
+7620,7620,"Din din atoi ugly hoitesi je, ekhon Snapchat diye oo pic bhalo ashe nah -,-",O,0,0,1,0
+7621,7621,Ammu room e asle phone rakhe calculator hate newa ami!,H,1,0,0,0
+7625,7625,"preme porchilam guys, uthe gechi.",H+S,1,1,0,0
+7627,7627,"If you’re under 5’4”, you’re a Kolbalish",H+S,1,1,0,0
+7628,7628,"Kichu kichu manush, era nijeo bhalo thakbe na abar onno der o bhalo thakte dibe nah",H,1,0,0,0
+7636,7636,Couple post dite chai kintu kopal e nei,S,0,1,0,0
+7641,7641,Friend : Dost ami depression a pore jacchi Me: ay ay ami agee thekei okhane pore achi,H+S,1,1,0,0
+7649,7649,Sob restaurant e ato space thakar poro couple der oi chipay ato interest keno?,S,0,1,0,0
+7653,7653,Amake depressed kore tumi abar mental health niye post dew wah,H,1,0,0,0
+7658,7658,"Haaaye re kopal.. Tana 8 din inbox e efforts dewar por aaaj dekhi or boyfriend ""nice try bhai"" bolche! :')",H,1,0,0,0
+7668,7668,I'm not Salman Muqtadir but kache asho nah aro kache asho nah.,H+O,1,0,1,0
+7673,7673,When he says agar tum meri na hui to mai mar jaunga “Kisi or Ladki pe” is silent.,H+S,1,1,0,0
+7674,7674,kar jonno rat jago,NONE,0,0,0,0
+7677,7677,"Hurt kore thakle maf kore dio, aj achi kal nh o thakte pari",NONE,0,0,0,0
+7681,7681,Bujhlm na meye gula prem kore kar sathe. Chelera to bole sobai single.,H,1,0,0,0
+7683,7683,Tujhe toh main time pe reply na doon Dil toh dur ki baat hain,H,1,0,0,0
+7686,7686,"Kono Ak Shiter Ratey Tomar Gaye ""Thanda"" pani Dhele diye Bolbo Valobashiy !",H,1,0,0,0
+7692,7692,meyera kibhbe jante parche chelerao kaade?? Ke ei imposter ta?,H,1,0,0,0
+7703,7703,Life er turning point e uturn neoya ami.,H,1,0,0,0
+7704,7704,Tumi bio te blood group diye rakhso tai mosha beshi kamray tomake,H,1,0,0,0
+7708,7708,"Senti khawata jodi kono art hoy then yes, I'm artist",H+S,1,1,0,0
+7710,7710,"""Real women don't expose body"" Taile fokirni tui conceive hoili kemne?",O,0,0,1,0
+7713,7713,Ashol first impression bole dile toh block marba.,H,1,0,0,0
+7718,7718,Facebook e o room aisha porse khali tumie amar room e asla na,H,1,0,0,0
+7720,7720,"ignore korcho? Koro Kismot a thakle, Biyer por bujhabo.",H+S,1,1,0,0
+7741,7741,Kichu na sudhu mon kharap dekhe react chara share dicchii klke react diye diboo,H,1,0,0,0
+7746,7746,"*My mom in every 5 min ""Kathal kha, aam kha""",H,1,0,0,0
+7751,7751,"Break up hurts the most? Konodin ei jom thanday, dorjaay angul chipte gyache!",H+S,1,1,0,0
+7762,7762,shob meye e ki rate na kheye thake,H+S,1,1,0,0
+7764,7764,"Bengali Girls: Half of my life passed saying""video call dis na ami mathay tel disi",H,1,0,0,0
+7771,7771,After breakup:- Boys:- You deserve better Also boys:- Amar Moto valo chele r paba na,H,1,0,0,0
+7777,7777,Nobody: Literally nobody: Bangalis: Accha eita ki gach er aam naki kina aam?,H,1,0,0,0
+7779,7779,Nobody: My ammu: ei nee kathal kha.,H,1,0,0,0
+7781,7781,shobar friend list ey emn.ekjon vudai ache j 2 din por por new id khule request pathabe,O,0,0,1,0
+7786,7786,": bhai tor dark circles pore jache. : Chilo, ache, thakbe.",H,1,0,0,0
+7788,7788,"Fuck coffee dates,sheetkal lepp er tolai tomar sathe lepta lepti korbo",O+V,0,0,1,1
+7790,7790,chatting korte iccha kore but massage likhte alshami lage,H,1,0,0,0
+7802,7802,amake ami chara keu bujhe nah !,NONE,0,0,0,0
+7806,7806,Ami jar kache treat chai suddenly uni onek gorib hoye jay keno bhai?,H+S,1,1,0,0
+7810,7810,"Nibbi: Ai bbu Aktu por por hand sanitize korba. Nibba: Ok baby Accah akhoni kore asi. Nibbi: Akhon r kstw kore jete hobe na Ami Ummah dicchi sob virus more jabe. ""Ummmmah""",H,1,0,0,0
+7812,7812,"Jare 'Mean' kore post dei, shei eshe bole ekdom thik bolso.",NONE,0,0,0,0
+7828,7828,No one - But every dude after visiting Syhlet - Janos Ami hotel e Jaye bolsi amake gorom gorom poori den,S,0,1,0,0
+7830,7830,chagoler bachcha serious text e haha react des ken:),H,1,0,0,0
+7853,7853,Oraii boyfriend ke jamai vabe jara school/college dress er shate saijaguija school/college a jaitw,H,1,0,0,0
+7855,7855,Bokachoda is ok but BC omg Bhodro borolok,S+O+V,0,1,1,1
+7865,7865,"Facebook ta boring hoyegeche , keu ar kauke expose korena",H+S,1,1,0,0
+7877,7877,"Unknown kaw ke onek kichu bole felar por * Dheeet keno je bollam, ignore korte hobe",H+S,1,1,0,0
+7879,7879,I need a new kopal. Original ta ekdom bhalo na.,H,1,0,0,0
+7885,7885,"iphone diya show off koros, kinar agee j basar bhitore kanna kati lagaisili oita jane manus?",H,1,0,0,0
+7888,7888,"Nah tumi sharee porba,,,dorkar hole ami porai dibo",H+S,1,1,0,0
+7895,7895,"""Fuchka khabi""I really miss that proposal.",NONE,0,0,0,0
+7913,7913,chelera Blackpink Fan meyera BTS Fan,NONE,0,0,0,0
+7927,7927,Cheleder meyeder theke beshi mood swing hoi,NONE,0,0,0,0
+7928,7928,Borishal er ordek meye e dhakai bash kore,H,1,0,0,0
+7943,7943,"Sun jodi ektu adjust kore, sleep schedule perfect hoejabe amar.",H+S,1,1,0,0
+7945,7945,Joto beshi Bhalo manushi dekhay tara toto beshi mone mone dhamna pona.,H,1,0,0,0
+7969,7969,"13/14bochorer baccha gulo naki horny thake aajkl,na bhai ota horny na tor hishu paise",H,1,0,0,0
+7970,7970,Single single kore chilee jabo tao vai relationship e jabo na ha vai eitai ami,NONE,0,0,0,0
+7981,7981,Poralekha kore amar sucksexfull hotei hobe,V,0,0,0,1
+7984,7984,miss you bashar kolbalish,H+S,1,1,0,0
+8008,8008,"Pasher bashar vabi- apnar chele k to oidin ek meyer sathe dekhlam Me as a parent - Wow, kmn lagtesilo oderke? maniyeche? ami jani amr cheler choice onek joos.",H,1,0,0,0
+8009,8009,Komolar juice khai ... Khali shudhu tomake chai,H,1,0,0,0
+8012,8012,Jibone Kew Amar Upor Crush khailo Nhh,NONE,0,0,0,0
+8018,8018,majhe majhe Ex er ma er kotha vhabi! Ki ekta jinish poida korse khalammay,H+S,1,1,0,0
+8020,8020,8 rakat er por shobai,NONE,0,0,0,0
+8022,8022,"Ghori te joto tai bajuk na keno, jiboner shob shomoy 12 tai baje",H,1,0,0,0
+8023,8023,Hoyto kono glitch hobe. Jaihok,NONE,0,0,0,0
+8034,8034,Sharadin shuye theke onno kaj korar time na pawa ami,H,1,0,0,0
+8037,8037,Corona jaak khali biri khaia peet kharap koira felbo,H,1,0,0,0
+8039,8039,Baccha jokhon floor e pore Kanna kore* . Floor be like : Oo bhai Maaroo Mujhe Maaroo,H,1,0,0,0
+8040,8040,Amar best friend dui din por por e real love kore,H,1,0,0,0
+8048,8048,"Ajob bhabe jibon choltase baal! keo knock na dile boring laage, abr knock dile kotha bolte iccha kore nah",H+S,1,1,0,0
+8050,8050,Jaar bou tar khobor nai Pura bangladesh er ghum nai. Shalman Mohammad Muqtader,S,0,1,0,0
+8054,8054,Iftar korte chai tomar shathe,NONE,0,0,0,0
+8061,8061,Jane amare diya labh nai,H,1,0,0,0
+8063,8063,10 tar por ami kokhono online thaki na,H,1,0,0,0
+8068,8068,"I have 3 moods: idk, idc, idgaf.",NONE,0,0,0,0
+8070,8070,"-ki korile bolo,paibo tomare?rakhibo akhite akhite...? -amar bodyguard hoye jaa.",H+S,1,1,0,0
+8077,8077,- Kew Text Diya Remove Korle Mone Hoy - I Love You Lekhcilo,S,0,1,0,0
+8078,8078,"Gf : Jan amar jonmoi hoise tmr jonno Bf : Chup thak,, ami tor Abbu Nah",S,0,1,0,0
+8106,8106,Tomar oita mon naki bosti eto manush kibhabe thake oitay,H,1,0,0,0
+8114,8114,Iftar korbi bhalo kotha but iftar party abar ki kire!,H,1,0,0,0
+8129,8129,Shob taka bharay e jay,NONE,0,0,0,0
+8130,8130,Ar bolish na mama,NONE,0,0,0,0
+8136,8136,Me asking my parents for my salami* Parents: maf koren shamne jan,H,1,0,0,0
+8137,8137,Ami tomake onek patta dite chai kintu tumi toh knock dao na.,H,1,0,0,0
+8150,8150,Risks nehi toh ishq nehi,NONE,0,0,0,0
+8154,8154,Chad dekha niye naki ekhono confused. Kalke eid dile toh shomoy aro kom ayhayyy,S,0,1,0,0
+8159,8159,Tumi aktu sundor bole ki akhon ignore korba nhaki :/,H,1,0,0,0
+8161,8161,One sided love is like gulistan er headphones Ekta chole arekta chole na,H+S,1,1,0,0
+8163,8163,"Fuckboi101- Nari amr nesha, Ar virgin khuja amr pesha.",S+V,0,1,0,1
+8173,8173,Ei shomoy khuda lage keno!,S,0,1,0,0
+8176,8176,Eto raat e online e ki? ghuma,H,1,0,0,0
+8177,8177,Ghum theke uthe hush ashte ashte bikal hoye jay comeback ta kokhon dibo!,H+S,1,1,0,0
+8184,8184,Shesh e korte parina,NONE,0,0,0,0
+8185,8185,But ami toh onno city te 10 min e kivabe ashbo,NONE,0,0,0,0
+8188,8188,: I'm in love with you : Tomar sathe jokhoni kotha boli kemon jani lage. Mone hoy jano jibone ja cheyechi shob peye giyechim. Erokom konodino lage nai age amr,H,1,0,0,0
+8190,8190,kichu manush ache Khali ekta angle e shundor lage and im kichu manush,S,0,1,0,0
+8194,8194,Maturity is when you know danish is that fucking crush of your gf between tmi & ami,H,1,0,0,0
+8212,8212,Me: goes to washroom at night* My mind: bhooter akromon a ek chatro nihoto :),H,1,0,0,0
+8217,8217,Budget 2000/- ar bhara tei jay 1870/-,NONE,0,0,0,0
+8222,8222,Oh na era tar thekeo baje check comments,NONE,0,0,0,0
+8249,8249,Moshjid a jeye juta akashe uthay rakhleo kono na kono bhalo manush eshe para diye jabei :),H,1,0,0,0
+8263,8263,Koi geli summer lover,H+O,1,0,1,0
+8271,8271,Ajob na? amra choto belay ammur kache maar kheye. ammu ammu bolei kanna kortam :v,H+S,1,1,0,0
+8275,8275,Nobody : . Every TV channel after 12 Am : Apnar jibone ki Sukh nai?,H,1,0,0,0
+8285,8285,Mair er upore oshud nai,NONE,0,0,0,0
+8289,8289,Borolok er boro boro kaaj,S,0,1,0,0
+8297,8297,"- Zodi tumi ei post pore thakoooo, tahole bhuje nibo tumi amar preme porecho :""3",H,1,0,0,0
+8299,8299,Eibar eid bashay korbo dekhe pimple o uthe nai,H+S,1,1,0,0
+8318,8318,Mon kharap kore boshe thakle labh nai tai ami ghumay thaki,H,1,0,0,0
+8324,8324,Pore jomabo ekhon khai,NONE,0,0,0,0
+8325,8325,Teka o pakhi next concert e shune nibo kanna kore na,H+S,1,1,0,0
+8328,8328,Kmon acho* ki koro* Humm* Ok* Egula chara onno ki bolle meyera potbe jodi kew bolten,H,1,0,0,0
+8336,8336,"Me: Bhai corona niye moja nish na *Someone else mentions ""Corona""* Also me: Aste naki jorey?",H+V,1,0,0,1
+8347,8347,First Bencher: Ajk sir er mejaj khrp Last Bencher: Raat e bou dite dey nai maybe,V,0,0,0,1
+8360,8360,"When someone ask ""Tomar Bestfriend kemon?"" Everyone: Halay nijeo kharap amareo kharap banaise. Me: Amar kono Bestfriend nai :)",H,1,0,0,0
+8364,8364,Cha er dokaner murubbira is google lite They know everything,H+S,1,1,0,0
+8365,8365,Knock na korle baccha der nam thik korbo kemne? Ajob toh!,H,1,0,0,0
+8375,8375,Shob ekshathe shuru hoy,NONE,0,0,0,0
+8390,8390,Nijeke khub bhalo mone hoye,NONE,0,0,0,0
+8393,8393,Nobody: Literally nobody: Every Bangladeshi teen ager: amar sathei keno emn hoy? :),H,1,0,0,0
+8402,8402,Ar ki ki dabi ache kar,NONE,0,0,0,0
+8403,8403,Kono ekta dol bolsilo,NONE,0,0,0,0
+8406,8406,Kichu manush er toh agey thekei ready,S,0,1,0,0
+8409,8409,Kun dhakay achi taile,S,0,1,0,0
+8411,8411,Black porle toh shesh,S,0,1,0,0
+8414,8414,Khatam tata bye bye gaya,H,1,0,0,0
+8417,8417,Bhalo hoite poysha lage na,NONE,0,0,0,0
+8430,8430,Breakup hurts? -Kokhon o Peant er Chine e NuNu lagce?,H+V,1,0,0,1
+8440,8440,Kar kache ki ask kore hayre,NONE,0,0,0,0
+8447,8447,Tension e ghum hoyna ekdom,NONE,0,0,0,0
+8461,8461,- i love you a lot beautiful. - iloveyou. Ekhn ekta pic daw jemon aso temon.,S,0,1,0,0
+8468,8468,Raat eo naki ekbar hoise,NONE,0,0,0,0
+8469,8469,Norte parchi na still,NONE,0,0,0,0
+8490,8490,"Buke betha ,golay kashi Tumi ki jano tomake ami kotto bhalobashi?",NONE,0,0,0,0
+8495,8495,"Karo dosh nai, shob dosh amar karon ami fb chalai",H+S,1,1,0,0
+8503,8503,Hash amar shathe ekshathe,NONE,0,0,0,0
+8508,8508,Eta agee bolbi toh. Jantam e nah,NONE,0,0,0,0
+8521,8521,Ami ki gopi bahu naki? Eto judge koro keno amk,H+S,1,1,0,0
+8524,8524,Tata bye bye khatam good bye,H,1,0,0,0
+8542,8542,"Dekhsos kar shathe relation e gese? Amar shatheo flirt korto but patta ditam nah, Asholei re ki chesra, Thak baad de amader ki, Na thik e bolsos",NONE,0,0,0,0
+8547,8547,Ei bhalo ei kharap ei raag ei funny ei mon chay nachte ei mon chay kante,H,1,0,0,0
+8550,8550,Tumader eto bar true love kmne hoy,H,1,0,0,0
+8551,8551,Eto natok korte paro agee janle director hoye jaitam,H,1,0,0,0
+8555,8555,Din raat porashuna kori,S,0,1,0,0
+8561,8561,Mane manush er drama dekhle,H,1,0,0,0
+8580,8580,Onek upokar holo. Thanks,H+S,1,1,0,0
+8584,8584,Accha bujhlam ja hoy bhalor jonnoi hoy. Tai bole shob bhalo amar sathei keno,H+S,1,1,0,0
+8605,8605,Shobai amake ei bread er moto treat kore,H,1,0,0,0
+8606,8606,Tomar ei attitude er jonnoi prem korte paro nah Me :,NONE,0,0,0,0
+8607,8607,"Na dost, O asholei onek bhalo. Onno shobar moto nah. Ebar ekdom true love e korbo Me :",H,1,0,0,0
+8616,8616,When same manush ke 2 din por por new new relation e jete dekhi Me :,H,1,0,0,0
+8619,8619,Tmr alga pirit jeye onno karo sathe dekhao Amr alga pirit e allergy ache,S,0,1,0,0
+8622,8622,Shobai bole quarantine e mota hoye jacche but ami try koreo parlam nah,NONE,0,0,0,0
+8624,8624,Shomossha nai Jitleo Argentina harleo Argentina In sha Allah jitbo,NONE,0,0,0,0
+8646,8646,keo i miss you bolle reply ki dibo jodi ami miss na kori?,H,1,0,0,0
+8648,8648,Na ami prem kori na meme dekhe hashi,H,1,0,0,0
+8652,8652,Ghure dekhe jao elaka tah,NONE,0,0,0,0
+8658,8658,Ajkeo bole tora ghurte gesos!,NONE,0,0,0,0
+8681,8681,When i see amader bashay asha mehman useing my towel,H,1,0,0,0
+8689,8689,Eid er kono feel pacchi na bye,S,0,1,0,0
+8691,8691,Tai 8 tay ghumai jai,NONE,0,0,0,0
+8697,8697,"Tumi amar post e react diba, Amio tomar post e react dibo. Deal??",S,0,1,0,0
+8715,8715,Ft. Breakup er por alga pirit,H,1,0,0,0
+8718,8718,Ammu : Shobta shesh kore utha lagbe 9 years old me :,H,1,0,0,0
+8747,8747,Sharadin online e thako but late reply dao keno? Me :,NONE,0,0,0,0
+8751,8751,Shobai tader babu shuna niye busy But tmr kaaj nai dekhe ei post dekhteso,H+S,1,1,0,0
+8759,8759,Choto kore share korte hobe,H,1,0,0,0
+8763,8763,Bhule post kore felsi sorry,H,1,0,0,0
+8764,8764,Sharadin shuye thakar por jokhon uthe darai Me :,NONE,0,0,0,0
+8766,8766,Hashir ki hoilo? Tor kache ki shob kichui funny? Me :,H,1,0,0,0
+8779,8779,Tumi khub shundor. Tumi ta je ke naam bolbo naa,H,1,0,0,0
+8794,8794,Bashay dhukha exist* Self respect :,NONE,0,0,0,0
+8795,8795,Bashay giye shob pic diye dibo Also me :,H,1,0,0,0
+8800,8800,Areh relax. Eita eto serious kichu na Me relaxing :,NONE,0,0,0,0
+8805,8805,"Excuse me, eije tomar eita niche pore gesilo",NONE,0,0,0,0
+8807,8807,Ghumaile manush er body rest kore BUT ami ghumaile amar phone rest kore,H,1,0,0,0
+8847,8847,"Mum, ey je o amar post e always react kore. Ore amar biyete dawat dibo",H+S,1,1,0,0
+8854,8854,Ammu dibe na re,H,1,0,0,0
+8855,8855,Mon o pathor kore ditam baal,H,1,0,0,0
+8859,8859,Nobody : Me trying to remember ki dream dekhe ghum ta bhangse :,H,1,0,0,0
+8878,8878,Ekta maatro friend jokhon tar prem niye busy Me :,NONE,0,0,0,0
+8880,8880,Friend list er ordhek depressed and baki ordhek horny,H+V,1,0,0,1
+8907,8907,Chula tah nivai dibi 5 min por 15min later Ammu : Smell ashtese kisher! Me :,NONE,0,0,0,0
+8920,8920,Thak kichu bolbo na,NONE,0,0,0,0
+8929,8929,Hoite pare amar bf fuckboy but or mon bhalo Her bf :,H,1,0,0,0
+8930,8930,Jokhon keo mittha bole but ami already jani kunta shotti Me : Ow accha accha,H,1,0,0,0
+8937,8937,Jhogra exist le bengali :,NONE,0,0,0,0
+8940,8940,Eto jola jole re,NONE,0,0,0,0
+8942,8942,Shishu. Kichui bujhe nah,NONE,0,0,0,0
+8945,8945,Boro chul ganja khur. Colour korse meye bhalo na,H,1,0,0,0
+8947,8947,Me : Closes Facebook. Brain : Ekhon ki korbo? Me : Accha tahole abar Facebook e dhukhi,H,1,0,0,0
+8949,8949,Nobody : Ammur chokhe ami :,H,1,0,0,0
+8959,8959,Dost asholei ekta toxic relation e chilam. Ebar ar thik kortesi na jaai hok na keno! Me : Thik bolsos ekdom. But dost sorry bolse ar emon hobe na. Patch up kore felsi Me :,H+S,1,1,0,0
+8965,8965,U ekta big kamla,O,0,0,1,0
+8982,8982,When earphone chara friend er voice clip shuni and shamne kono family member thake,H,1,0,0,0
+8988,8988,Comment e jokhon couple der alga pirit dekhi Me :,H,1,0,0,0
+9000,9000,Classroom er last bench ta te nijer bashar moto feel paai,NONE,0,0,0,0
+9007,9007,If ekta meyer sathe emn kichu na koro jeita kokhono nijer meyer sathe chaba na then you are real guy,NONE,0,0,0,0
+9019,9019,"Nobody : Girls : ""Make up diya ruti banaya khawabo"" Jodi khaite paros tokhn make up ke moyda bolish haramjada",NONE,0,0,0,0
+9020,9020,Nobody : Bangali taka count korar ageee :,NONE,0,0,0,0
+9047,9047,Partner change na kore partner k change kore nijer moto kore nau,NONE,0,0,0,0
+9049,9049,Normal people : I am pregnant Kamla insta user : #pregnant #voira_dise #Baccha #kids #pet_fulse #bongsher_prodip #ai_lo #omago_betha #likeforlike #childhood #all_is_well,NONE,0,0,0,0
+9068,9068,"Accha! ami Chikon or mota, forsha or kalo! tate tor baap er kih wtf",NONE,0,0,0,0
+9070,9070,"Normal people ""i am having sex"" Kaan helal ""Mitila, sex is in mai hart vepi"" Ali G-star ""Ay ayy ayyye, Ekebare shundor sex"" Ripon video ""I am sex""",NONE,0,0,0,0
+9073,9073,Ki din ashlo! Fuckboi e fuckboi niye post kore. Aharee,NONE,0,0,0,0
+9074,9074,"Me as a boyfriend ""Urna eto nore kno? stapler maira rakhte paros na!",NONE,0,0,0,0
+9084,9084,"Amar good luck be like ""Ashbe, ashlo, ashtese, ashtese, ashtesee, elo na""",NONE,0,0,0,0
